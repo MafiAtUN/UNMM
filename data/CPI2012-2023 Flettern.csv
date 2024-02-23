@@ -1,0 +1,2173 @@
+"Country / Territory","ISO3","Region","Year","CPI score","Rank","Sources","Standard error","NA"
+"Afghanistan","AFG","AP",2012,NA,8,NA,3,3.3
+"Afghanistan","AFG","AP",2013,NA,8,NA,3,3.3
+"Afghanistan","AFG","AP",2014,12,NA,NA,4,1.29
+"Afghanistan","AFG","AP",2015,11,NA,NA,4,3.49
+"Afghanistan","AFG","AP",2016,15,NA,NA,5,1.74
+"Afghanistan","AFG","AP",2017,15,NA,177,5,1.39
+"Afghanistan","AFG","AP",2018,16,NA,172,5,1.41
+"Afghanistan","AFG","AP",2019,16,NA,173,5,2.554536
+"Afghanistan","AFG","AP",2020,19,NA,165,5,2.440014
+"Afghanistan","AFG","AP",2021,16,NA,174,5,2.12416
+"Afghanistan","AFG","AP",2022,24,NA,150,4,6.299999
+"Afghanistan","AFG","AP",2023,20,NA,162,5,6.244771
+"Albania","ALB","ECA",2012,NA,33,NA,7,2
+"Albania","ALB","ECA",2013,NA,31,NA,7,2.1
+"Albania","ALB","ECA",2014,33,NA,NA,7,1.51
+"Albania","ALB","ECA",2015,36,NA,NA,7,3.58
+"Albania","ALB","ECA",2016,39,NA,NA,7,1.99
+"Albania","ALB","ECA",2017,38,NA,91,8,1.81
+"Albania","ALB","ECA",2018,36,NA,99,8,1.65
+"Albania","ALB","ECA",2019,35,NA,106,8,2.507669
+"Albania","ALB","ECA",2020,36,NA,104,8,0.915488
+"Albania","ALB","ECA",2021,35,NA,110,8,1.326029
+"Albania","ALB","ECA",2022,36,NA,101,8,1.316355
+"Albania","ALB","ECA",2023,37,NA,98,7,1.560074
+"Algeria","DZA","MENA",2012,NA,34,NA,6,3.3
+"Algeria","DZA","MENA",2013,NA,36,NA,6,2.8
+"Algeria","DZA","MENA",2014,36,NA,NA,5,2.06
+"Algeria","DZA","MENA",2015,36,NA,NA,5,1.85
+"Algeria","DZA","MENA",2016,34,NA,NA,6,2.94
+"Algeria","DZA","MENA",2017,33,NA,112,6,2.32
+"Algeria","DZA","MENA",2018,35,NA,105,6,1.21
+"Algeria","DZA","MENA",2019,35,NA,106,7,2.590262
+"Algeria","DZA","MENA",2020,36,NA,104,7,1.481484
+"Algeria","DZA","MENA",2021,33,NA,117,7,1.07623
+"Algeria","DZA","MENA",2022,33,NA,116,6,1.673809
+"Algeria","DZA","MENA",2023,36,NA,104,7,2.327238
+"Angola","AGO","SSA",2012,NA,22,NA,7,1.8
+"Angola","AGO","SSA",2013,NA,23,NA,7,2.8
+"Angola","AGO","SSA",2014,19,NA,NA,6,1.71
+"Angola","AGO","SSA",2015,15,NA,NA,5,1.8
+"Angola","AGO","SSA",2016,18,NA,NA,4,1.68
+"Angola","AGO","SSA",2017,19,NA,167,5,1.28
+"Angola","AGO","SSA",2018,19,NA,165,6,1.31
+"Angola","AGO","SSA",2019,26,NA,146,7,1.821627
+"Angola","AGO","SSA",2020,27,NA,142,7,2.011135
+"Angola","AGO","SSA",2021,29,NA,136,7,1.526104
+"Angola","AGO","SSA",2022,33,NA,116,7,2.807703
+"Angola","AGO","SSA",2023,33,NA,121,7,2.813869
+"Argentina","ARG","AME",2012,NA,35,NA,8,2.6
+"Argentina","ARG","AME",2013,NA,34,NA,8,2.4
+"Argentina","ARG","AME",2014,34,NA,NA,7,2.42
+"Argentina","ARG","AME",2015,32,NA,NA,7,1.84
+"Argentina","ARG","AME",2016,36,NA,NA,8,1.76
+"Argentina","ARG","AME",2017,39,NA,85,8,2.92
+"Argentina","ARG","AME",2018,40,NA,85,8,2.7
+"Argentina","ARG","AME",2019,45,NA,66,8,3.288657
+"Argentina","ARG","AME",2020,42,NA,78,8,2.318056
+"Argentina","ARG","AME",2021,38,NA,96,8,2.099133
+"Argentina","ARG","AME",2022,38,NA,94,7,2.334808
+"Argentina","ARG","AME",2023,37,NA,98,8,2.046685
+"Armenia","ARM","ECA",2012,NA,34,NA,6,2.7
+"Armenia","ARM","ECA",2013,NA,36,NA,6,3.5
+"Armenia","ARM","ECA",2014,37,NA,NA,6,3.69
+"Armenia","ARM","ECA",2015,35,NA,NA,5,2.98
+"Armenia","ARM","ECA",2016,33,NA,NA,6,4.01
+"Armenia","ARM","ECA",2017,35,NA,107,6,3.79
+"Armenia","ARM","ECA",2018,35,NA,105,6,4
+"Armenia","ARM","ECA",2019,42,NA,77,6,4.310598
+"Armenia","ARM","ECA",2020,49,NA,60,6,3.504781
+"Armenia","ARM","ECA",2021,49,NA,58,6,3.764584
+"Armenia","ARM","ECA",2022,46,NA,63,6,2.467806
+"Armenia","ARM","ECA",2023,47,NA,62,6,2.543364
+"Australia","AUS","AP",2012,NA,85,NA,8,1.1
+"Australia","AUS","AP",2013,NA,81,NA,8,1.5
+"Australia","AUS","AP",2014,80,NA,NA,8,1.31
+"Australia","AUS","AP",2015,79,NA,NA,8,1.5
+"Australia","AUS","AP",2016,79,NA,NA,8,1.27
+"Australia","AUS","AP",2017,77,NA,13,9,1.4
+"Australia","AUS","AP",2018,77,NA,13,9,1.27
+"Australia","AUS","AP",2019,77,NA,12,9,1.317929
+"Australia","AUS","AP",2020,77,NA,11,9,1.046566
+"Australia","AUS","AP",2021,73,NA,18,9,1.626727
+"Australia","AUS","AP",2022,75,NA,13,9,0.7788845
+"Australia","AUS","AP",2023,75,NA,14,9,1.523523
+"Austria","AUT","WE/EU",2012,NA,69,NA,8,2.4
+"Austria","AUT","WE/EU",2013,NA,69,NA,8,3.2
+"Austria","AUT","WE/EU",2014,72,NA,NA,7,3.49
+"Austria","AUT","WE/EU",2015,76,NA,NA,7,1.76
+"Austria","AUT","WE/EU",2016,75,NA,NA,7,1.36
+"Austria","AUT","WE/EU",2017,75,NA,16,8,1.17
+"Austria","AUT","WE/EU",2018,76,NA,14,8,1.37
+"Austria","AUT","WE/EU",2019,77,NA,12,8,1.568815
+"Austria","AUT","WE/EU",2020,76,NA,15,8,0.6740441
+"Austria","AUT","WE/EU",2021,74,NA,13,8,0.8316687
+"Austria","AUT","WE/EU",2022,71,NA,22,8,1.529005
+"Austria","AUT","WE/EU",2023,71,NA,20,8,1.367177
+"Azerbaijan","AZE","ECA",2012,NA,27,NA,6,2.5
+"Azerbaijan","AZE","ECA",2013,NA,28,NA,6,3.5
+"Azerbaijan","AZE","ECA",2014,29,NA,NA,6,3.02
+"Azerbaijan","AZE","ECA",2015,29,NA,NA,6,3.25
+"Azerbaijan","AZE","ECA",2016,30,NA,NA,7,5.13
+"Azerbaijan","AZE","ECA",2017,31,NA,122,7,5.64
+"Azerbaijan","AZE","ECA",2018,25,NA,152,6,4.09
+"Azerbaijan","AZE","ECA",2019,30,NA,126,7,7.161777
+"Azerbaijan","AZE","ECA",2020,30,NA,129,7,5.000017
+"Azerbaijan","AZE","ECA",2021,30,NA,128,7,5.524198
+"Azerbaijan","AZE","ECA",2022,23,NA,157,6,2.397118
+"Azerbaijan","AZE","ECA",2023,23,NA,154,6,2.462465
+"Bahamas","BHS","AME",2012,NA,71,NA,3,1
+"Bahamas","BHS","AME",2013,NA,71,NA,3,1
+"Bahamas","BHS","AME",2014,71,NA,NA,3,0.99
+"Bahamas","BHS","AME",2015,NA,NA,NA,NA,NA
+"Bahamas","BHS","AME",2016,66,NA,NA,3,5.2
+"Bahamas","BHS","AME",2017,65,NA,28,3,5.39
+"Bahamas","BHS","AME",2018,65,NA,29,3,5.39
+"Bahamas","BHS","AME",2019,64,NA,29,3,5.825616
+"Bahamas","BHS","AME",2020,63,NA,30,3,5.801677
+"Bahamas","BHS","AME",2021,64,NA,30,3,5.631818
+"Bahamas","BHS","AME",2022,64,NA,30,3,5.318037
+"Bahamas","BHS","AME",2023,64,NA,30,3,5.47035
+"Bahrain","BHR","MENA",2012,NA,51,NA,5,4.1
+"Bahrain","BHR","MENA",2013,NA,48,NA,5,5.4
+"Bahrain","BHR","MENA",2014,49,NA,NA,5,6.11
+"Bahrain","BHR","MENA",2015,51,NA,NA,5,7.86
+"Bahrain","BHR","MENA",2016,43,NA,NA,5,5.96
+"Bahrain","BHR","MENA",2017,36,NA,103,4,1.81
+"Bahrain","BHR","MENA",2018,36,NA,99,4,1.81
+"Bahrain","BHR","MENA",2019,42,NA,77,6,7.645793
+"Bahrain","BHR","MENA",2020,42,NA,78,6,5.914723
+"Bahrain","BHR","MENA",2021,42,NA,78,6,5.19534
+"Bahrain","BHR","MENA",2022,44,NA,69,6,6.186327
+"Bahrain","BHR","MENA",2023,42,NA,76,6,5.329254
+"Bangladesh","BGD","AP",2012,NA,26,NA,7,4.1
+"Bangladesh","BGD","AP",2013,NA,27,NA,7,4.1
+"Bangladesh","BGD","AP",2014,25,NA,NA,7,4.23
+"Bangladesh","BGD","AP",2015,25,NA,NA,7,4.3
+"Bangladesh","BGD","AP",2016,26,NA,NA,7,4.13
+"Bangladesh","BGD","AP",2017,28,NA,143,8,3.19
+"Bangladesh","BGD","AP",2018,26,NA,149,8,2.63
+"Bangladesh","BGD","AP",2019,26,NA,146,8,2.617282
+"Bangladesh","BGD","AP",2020,26,NA,146,8,1.715685
+"Bangladesh","BGD","AP",2021,26,NA,147,8,1.742484
+"Bangladesh","BGD","AP",2022,25,NA,147,8,1.927162
+"Bangladesh","BGD","AP",2023,24,NA,149,8,1.511192
+"Barbados","BRB","AME",2012,NA,76,NA,3,6.7
+"Barbados","BRB","AME",2013,NA,75,NA,3,7.1
+"Barbados","BRB","AME",2014,74,NA,NA,3,8.09
+"Barbados","BRB","AME",2015,NA,NA,NA,NA,NA
+"Barbados","BRB","AME",2016,61,NA,NA,3,6.91
+"Barbados","BRB","AME",2017,68,NA,25,3,3.24
+"Barbados","BRB","AME",2018,68,NA,25,3,3.12
+"Barbados","BRB","AME",2019,62,NA,30,4,6.05961
+"Barbados","BRB","AME",2020,64,NA,29,4,5.471437
+"Barbados","BRB","AME",2021,65,NA,29,4,3.065789
+"Barbados","BRB","AME",2022,65,NA,29,4,3.281295
+"Barbados","BRB","AME",2023,69,NA,24,3,3.366726
+"Belarus","BLR","ECA",2012,NA,31,NA,5,3.6
+"Belarus","BLR","ECA",2013,NA,29,NA,5,4
+"Belarus","BLR","ECA",2014,31,NA,NA,5,4.04
+"Belarus","BLR","ECA",2015,32,NA,NA,6,4.37
+"Belarus","BLR","ECA",2016,40,NA,NA,7,3.93
+"Belarus","BLR","ECA",2017,44,NA,68,7,4.12
+"Belarus","BLR","ECA",2018,44,NA,70,7,3.92
+"Belarus","BLR","ECA",2019,45,NA,66,7,4.20046
+"Belarus","BLR","ECA",2020,47,NA,63,7,3.376054
+"Belarus","BLR","ECA",2021,41,NA,82,8,2.345835
+"Belarus","BLR","ECA",2022,39,NA,91,7,3.135647
+"Belarus","BLR","ECA",2023,37,NA,98,7,3.337556
+"Belgium","BEL","WE/EU",2012,NA,75,NA,7,2.4
+"Belgium","BEL","WE/EU",2013,NA,75,NA,7,2.3
+"Belgium","BEL","WE/EU",2014,76,NA,NA,7,2.26
+"Belgium","BEL","WE/EU",2015,77,NA,NA,7,1.34
+"Belgium","BEL","WE/EU",2016,77,NA,NA,7,1.55
+"Belgium","BEL","WE/EU",2017,75,NA,16,8,1.63
+"Belgium","BEL","WE/EU",2018,75,NA,17,8,1.09
+"Belgium","BEL","WE/EU",2019,75,NA,17,7,1.094819
+"Belgium","BEL","WE/EU",2020,76,NA,15,7,1.053756
+"Belgium","BEL","WE/EU",2021,73,NA,18,8,1.435341
+"Belgium","BEL","WE/EU",2022,73,NA,18,8,1.515366
+"Belgium","BEL","WE/EU",2023,73,NA,16,8,2.133975
+"Benin","BEN","SSA",2012,NA,36,NA,6,4.3
+"Benin","BEN","SSA",2013,NA,36,NA,6,3.4
+"Benin","BEN","SSA",2014,39,NA,NA,4,4.38
+"Benin","BEN","SSA",2015,37,NA,NA,5,4.43
+"Benin","BEN","SSA",2016,36,NA,NA,6,3.8
+"Benin","BEN","SSA",2017,39,NA,85,6,4.17
+"Benin","BEN","SSA",2018,40,NA,85,6,3.14
+"Benin","BEN","SSA",2019,41,NA,80,7,2.639245
+"Benin","BEN","SSA",2020,41,NA,83,7,1.797036
+"Benin","BEN","SSA",2021,42,NA,78,7,2.348642
+"Benin","BEN","SSA",2022,43,NA,72,7,2.416439
+"Benin","BEN","SSA",2023,43,NA,70,6,3.131058
+"Bhutan","BTN","AP",2012,NA,63,NA,3,3.6
+"Bhutan","BTN","AP",2013,NA,63,NA,4,2.6
+"Bhutan","BTN","AP",2014,65,NA,NA,4,1.81
+"Bhutan","BTN","AP",2015,65,NA,NA,4,2.14
+"Bhutan","BTN","AP",2016,65,NA,NA,5,2.12
+"Bhutan","BTN","AP",2017,67,NA,26,5,1.83
+"Bhutan","BTN","AP",2018,68,NA,25,4,2.86
+"Bhutan","BTN","AP",2019,68,NA,25,4,2.756646
+"Bhutan","BTN","AP",2020,68,NA,24,4,2.387326
+"Bhutan","BTN","AP",2021,68,NA,25,4,2.239852
+"Bhutan","BTN","AP",2022,68,NA,25,4,2.179297
+"Bhutan","BTN","AP",2023,68,NA,26,4,2.179297
+"Bolivia","BOL","AME",2012,NA,34,NA,7,3.7
+"Bolivia","BOL","AME",2013,NA,34,NA,7,3.7
+"Bolivia","BOL","AME",2014,35,NA,NA,7,2.98
+"Bolivia","BOL","AME",2015,34,NA,NA,7,3.58
+"Bolivia","BOL","AME",2016,33,NA,NA,8,2.85
+"Bolivia","BOL","AME",2017,33,NA,112,6,2.98
+"Bolivia","BOL","AME",2018,29,NA,132,7,3.6
+"Bolivia","BOL","AME",2019,31,NA,123,7,2.996561
+"Bolivia","BOL","AME",2020,31,NA,124,7,2.048029
+"Bolivia","BOL","AME",2021,30,NA,128,7,1.684876
+"Bolivia","BOL","AME",2022,31,NA,126,6,2.41325
+"Bolivia","BOL","AME",2023,29,NA,133,7,2.310445
+"Bosnia and Herzegovina","BIH","ECA",2012,NA,42,NA,7,2.3
+"Bosnia and Herzegovina","BIH","ECA",2013,NA,42,NA,7,2.9
+"Bosnia and Herzegovina","BIH","ECA",2014,39,NA,NA,6,1.15
+"Bosnia and Herzegovina","BIH","ECA",2015,38,NA,NA,6,1.71
+"Bosnia and Herzegovina","BIH","ECA",2016,39,NA,NA,7,1.7
+"Bosnia and Herzegovina","BIH","ECA",2017,38,NA,91,7,2.56
+"Bosnia and Herzegovina","BIH","ECA",2018,38,NA,89,7,1.86
+"Bosnia and Herzegovina","BIH","ECA",2019,36,NA,101,7,1.952692
+"Bosnia and Herzegovina","BIH","ECA",2020,35,NA,111,7,1.867208
+"Bosnia and Herzegovina","BIH","ECA",2021,35,NA,110,7,1.801027
+"Bosnia and Herzegovina","BIH","ECA",2022,34,NA,110,7,2.184636
+"Bosnia and Herzegovina","BIH","ECA",2023,35,NA,108,6,1.953783
+"Botswana","BWA","SSA",2012,NA,65,NA,7,1.9
+"Botswana","BWA","SSA",2013,NA,64,NA,7,1.6
+"Botswana","BWA","SSA",2014,63,NA,NA,6,1.93
+"Botswana","BWA","SSA",2015,63,NA,NA,6,2.35
+"Botswana","BWA","SSA",2016,60,NA,NA,6,3.1
+"Botswana","BWA","SSA",2017,61,NA,34,7,2.74
+"Botswana","BWA","SSA",2018,61,NA,34,7,2.76
+"Botswana","BWA","SSA",2019,61,NA,34,7,3.731927
+"Botswana","BWA","SSA",2020,60,NA,35,7,2.876193
+"Botswana","BWA","SSA",2021,55,NA,45,8,3.191742
+"Botswana","BWA","SSA",2022,60,NA,35,8,2.630613
+"Botswana","BWA","SSA",2023,59,NA,39,7,3.042194
+"Brazil","BRA","AME",2012,NA,43,NA,8,3.3
+"Brazil","BRA","AME",2013,NA,42,NA,8,3.7
+"Brazil","BRA","AME",2014,43,NA,NA,7,4.01
+"Brazil","BRA","AME",2015,38,NA,NA,7,5.29
+"Brazil","BRA","AME",2016,40,NA,NA,8,4.34
+"Brazil","BRA","AME",2017,37,NA,96,8,4.24
+"Brazil","BRA","AME",2018,35,NA,105,8,4.05
+"Brazil","BRA","AME",2019,35,NA,106,8,4.060288
+"Brazil","BRA","AME",2020,38,NA,94,8,2.499375
+"Brazil","BRA","AME",2021,38,NA,96,8,1.613992
+"Brazil","BRA","AME",2022,38,NA,94,8,1.576192
+"Brazil","BRA","AME",2023,36,NA,104,8,1.466162
+"Brunei Darussalam","BRN","AP",2012,NA,55,NA,3,9.1
+"Brunei Darussalam","BRN","AP",2013,NA,60,NA,3,10.4
+"Brunei Darussalam","BRN","AP",2014,NA,NA,NA,NA,NA
+"Brunei Darussalam","BRN","AP",2015,NA,NA,NA,NA,NA
+"Brunei Darussalam","BRN","AP",2016,58,NA,NA,3,8.85
+"Brunei Darussalam","BRN","AP",2017,62,NA,32,3,8.72
+"Brunei Darussalam","BRN","AP",2018,63,NA,31,3,6.62
+"Brunei Darussalam","BRN","AP",2019,60,NA,35,3,6.118152
+"Brunei Darussalam","BRN","AP",2020,60,NA,35,3,5.585083
+"Brunei Darussalam","BRN","AP",2021,NA,NA,NA,NA,NA
+"Brunei Darussalam","BRN","AP",2022,NA,NA,NA,NA,NA
+"Brunei Darussalam","BRN","AP",2023,NA,NA,NA,NA,NA
+"Bulgaria","BGR","WE/EU",2012,NA,41,NA,8,3.8
+"Bulgaria","BGR","WE/EU",2013,NA,41,NA,9,3.3
+"Bulgaria","BGR","WE/EU",2014,43,NA,NA,9,2.82
+"Bulgaria","BGR","WE/EU",2015,41,NA,NA,9,2.43
+"Bulgaria","BGR","WE/EU",2016,41,NA,NA,9,2.2
+"Bulgaria","BGR","WE/EU",2017,43,NA,71,10,2.66
+"Bulgaria","BGR","WE/EU",2018,42,NA,77,10,2.41
+"Bulgaria","BGR","WE/EU",2019,43,NA,74,10,2.768014
+"Bulgaria","BGR","WE/EU",2020,44,NA,69,10,1.290551
+"Bulgaria","BGR","WE/EU",2021,42,NA,78,10,1.176856
+"Bulgaria","BGR","WE/EU",2022,43,NA,72,10,1.062506
+"Bulgaria","BGR","WE/EU",2023,45,NA,67,10,1.161256
+"Burkina Faso","BFA","SSA",2012,NA,38,NA,7,4.4
+"Burkina Faso","BFA","SSA",2013,NA,38,NA,7,3.9
+"Burkina Faso","BFA","SSA",2014,38,NA,NA,7,2.67
+"Burkina Faso","BFA","SSA",2015,38,NA,NA,7,2.97
+"Burkina Faso","BFA","SSA",2016,42,NA,NA,7,2.47
+"Burkina Faso","BFA","SSA",2017,42,NA,74,7,2.18
+"Burkina Faso","BFA","SSA",2018,41,NA,78,8,1.81
+"Burkina Faso","BFA","SSA",2019,40,NA,85,8,2.542852
+"Burkina Faso","BFA","SSA",2020,40,NA,86,8,1.622322
+"Burkina Faso","BFA","SSA",2021,42,NA,78,7,1.367199
+"Burkina Faso","BFA","SSA",2022,42,NA,77,7,1.367199
+"Burkina Faso","BFA","SSA",2023,41,NA,83,7,1.782614
+"Burundi","BDI","SSA",2012,NA,19,NA,5,2.8
+"Burundi","BDI","SSA",2013,NA,21,NA,5,2.6
+"Burundi","BDI","SSA",2014,20,NA,NA,5,3.65
+"Burundi","BDI","SSA",2015,21,NA,NA,5,2.94
+"Burundi","BDI","SSA",2016,20,NA,NA,6,1.53
+"Burundi","BDI","SSA",2017,22,NA,157,6,3.29
+"Burundi","BDI","SSA",2018,17,NA,170,5,2.65
+"Burundi","BDI","SSA",2019,19,NA,165,6,4.894006
+"Burundi","BDI","SSA",2020,19,NA,165,6,3.737859
+"Burundi","BDI","SSA",2021,19,NA,169,6,3.268247
+"Burundi","BDI","SSA",2022,17,NA,171,5,2.325597
+"Burundi","BDI","SSA",2023,20,NA,162,5,1.796819
+"Cabo Verde","CPV","SSA",2012,NA,60,NA,4,3.8
+"Cabo Verde","CPV","SSA",2013,NA,58,NA,4,4.8
+"Cabo Verde","CPV","SSA",2014,57,NA,NA,4,5.94
+"Cabo Verde","CPV","SSA",2015,55,NA,NA,4,6.16
+"Cabo Verde","CPV","SSA",2016,59,NA,NA,3,5.72
+"Cabo Verde","CPV","SSA",2017,55,NA,48,4,4.19
+"Cabo Verde","CPV","SSA",2018,57,NA,45,4,4.22
+"Cabo Verde","CPV","SSA",2019,58,NA,41,4,4.298384
+"Cabo Verde","CPV","SSA",2020,58,NA,41,4,3.722509
+"Cabo Verde","CPV","SSA",2021,58,NA,39,4,2.965474
+"Cabo Verde","CPV","SSA",2022,60,NA,35,4,4.811593
+"Cabo Verde","CPV","SSA",2023,64,NA,30,3,3.048059
+"Cambodia","KHM","AP",2012,NA,22,NA,7,3.1
+"Cambodia","KHM","AP",2013,NA,20,NA,7,3
+"Cambodia","KHM","AP",2014,21,NA,NA,7,2.25
+"Cambodia","KHM","AP",2015,21,NA,NA,7,3.87
+"Cambodia","KHM","AP",2016,21,NA,NA,8,2.82
+"Cambodia","KHM","AP",2017,21,NA,161,8,2.43
+"Cambodia","KHM","AP",2018,20,NA,161,8,2.58
+"Cambodia","KHM","AP",2019,20,NA,162,8,3.409514
+"Cambodia","KHM","AP",2020,21,NA,160,8,2.322713
+"Cambodia","KHM","AP",2021,23,NA,157,8,2.842698
+"Cambodia","KHM","AP",2022,24,NA,150,8,2.782431
+"Cambodia","KHM","AP",2023,22,NA,158,7,2.904808
+"Cameroon","CMR","SSA",2012,NA,26,NA,8,3.5
+"Cameroon","CMR","SSA",2013,NA,25,NA,8,2.9
+"Cameroon","CMR","SSA",2014,27,NA,NA,8,2.87
+"Cameroon","CMR","SSA",2015,27,NA,NA,8,3.26
+"Cameroon","CMR","SSA",2016,26,NA,NA,9,3.04
+"Cameroon","CMR","SSA",2017,25,NA,153,9,2.58
+"Cameroon","CMR","SSA",2018,25,NA,152,9,2.43
+"Cameroon","CMR","SSA",2019,25,NA,153,9,2.424488
+"Cameroon","CMR","SSA",2020,25,NA,149,9,1.364944
+"Cameroon","CMR","SSA",2021,27,NA,144,9,1.366871
+"Cameroon","CMR","SSA",2022,26,NA,142,9,1.370248
+"Cameroon","CMR","SSA",2023,27,NA,140,9,1.652038
+"Canada","CAN","AME",2012,NA,84,NA,7,2.2
+"Canada","CAN","AME",2013,NA,81,NA,7,2.4
+"Canada","CAN","AME",2014,81,NA,NA,7,2.45
+"Canada","CAN","AME",2015,83,NA,NA,7,1.63
+"Canada","CAN","AME",2016,82,NA,NA,7,2.03
+"Canada","CAN","AME",2017,82,NA,8,8,1.49
+"Canada","CAN","AME",2018,81,NA,9,8,2.16
+"Canada","CAN","AME",2019,77,NA,12,8,2.796791
+"Canada","CAN","AME",2020,77,NA,11,8,1.771133
+"Canada","CAN","AME",2021,74,NA,13,8,2.299962
+"Canada","CAN","AME",2022,74,NA,14,8,2.123417
+"Canada","CAN","AME",2023,76,NA,12,8,1.725637
+"Central African Republic","CAF","SSA",2012,NA,26,NA,4,2.4
+"Central African Republic","CAF","SSA",2013,NA,25,NA,4,5.4
+"Central African Republic","CAF","SSA",2014,24,NA,NA,4,1.33
+"Central African Republic","CAF","SSA",2015,24,NA,NA,4,1.44
+"Central African Republic","CAF","SSA",2016,20,NA,NA,4,4.04
+"Central African Republic","CAF","SSA",2017,23,NA,156,5,3.28
+"Central African Republic","CAF","SSA",2018,26,NA,149,5,1.14
+"Central African Republic","CAF","SSA",2019,25,NA,153,5,1.428002
+"Central African Republic","CAF","SSA",2020,26,NA,146,5,0.9326452
+"Central African Republic","CAF","SSA",2021,24,NA,154,5,0.9885881
+"Central African Republic","CAF","SSA",2022,24,NA,150,5,0.8079345
+"Central African Republic","CAF","SSA",2023,24,NA,149,5,0.9885881
+"Chad","TCD","SSA",2012,NA,19,NA,5,2.5
+"Chad","TCD","SSA",2013,NA,19,NA,5,3.8
+"Chad","TCD","SSA",2014,22,NA,NA,5,2.95
+"Chad","TCD","SSA",2015,22,NA,NA,5,2.35
+"Chad","TCD","SSA",2016,20,NA,NA,5,2.67
+"Chad","TCD","SSA",2017,20,NA,165,6,2.73
+"Chad","TCD","SSA",2018,19,NA,165,6,2.94
+"Chad","TCD","SSA",2019,20,NA,162,6,2.451336
+"Chad","TCD","SSA",2020,21,NA,160,6,1.710202
+"Chad","TCD","SSA",2021,20,NA,164,6,1.885957
+"Chad","TCD","SSA",2022,19,NA,167,6,1.513127
+"Chad","TCD","SSA",2023,20,NA,162,6,2.155059
+"Chile","CHL","AME",2012,NA,72,NA,9,2.1
+"Chile","CHL","AME",2013,NA,71,NA,9,1.8
+"Chile","CHL","AME",2014,73,NA,NA,8,1.74
+"Chile","CHL","AME",2015,70,NA,NA,8,2.15
+"Chile","CHL","AME",2016,66,NA,NA,8,2.65
+"Chile","CHL","AME",2017,67,NA,26,9,2.03
+"Chile","CHL","AME",2018,67,NA,27,9,1.88
+"Chile","CHL","AME",2019,67,NA,26,9,2.552611
+"Chile","CHL","AME",2020,67,NA,25,9,1.225991
+"Chile","CHL","AME",2021,67,NA,27,9,1.32958
+"Chile","CHL","AME",2022,67,NA,27,9,1.34103
+"Chile","CHL","AME",2023,66,NA,29,9,1.540951
+"China","CHN","AP",2012,NA,39,NA,9,2.9
+"China","CHN","AP",2013,NA,40,NA,9,2.9
+"China","CHN","AP",2014,36,NA,NA,8,2.17
+"China","CHN","AP",2015,37,NA,NA,8,2.34
+"China","CHN","AP",2016,40,NA,NA,8,2.39
+"China","CHN","AP",2017,41,NA,77,9,1.96
+"China","CHN","AP",2018,39,NA,87,8,2.02
+"China","CHN","AP",2019,41,NA,80,8,2.100923
+"China","CHN","AP",2020,42,NA,78,8,1.630193
+"China","CHN","AP",2021,45,NA,66,9,1.768843
+"China","CHN","AP",2022,45,NA,65,9,1.811471
+"China","CHN","AP",2023,42,NA,76,8,1.644832
+"Colombia","COL","AME",2012,NA,36,NA,7,2.6
+"Colombia","COL","AME",2013,NA,36,NA,7,2
+"Colombia","COL","AME",2014,37,NA,NA,7,1.68
+"Colombia","COL","AME",2015,37,NA,NA,7,1.94
+"Colombia","COL","AME",2016,37,NA,NA,8,2.27
+"Colombia","COL","AME",2017,37,NA,96,8,2.77
+"Colombia","COL","AME",2018,36,NA,99,8,2.51
+"Colombia","COL","AME",2019,37,NA,96,8,2.493945
+"Colombia","COL","AME",2020,39,NA,92,8,1.588306
+"Colombia","COL","AME",2021,39,NA,87,8,1.454743
+"Colombia","COL","AME",2022,39,NA,91,8,1.379437
+"Colombia","COL","AME",2023,40,NA,87,8,1.423581
+"Comoros","COM","SSA",2012,NA,28,NA,3,7.5
+"Comoros","COM","SSA",2013,NA,28,NA,3,7.5
+"Comoros","COM","SSA",2014,26,NA,NA,3,8.75
+"Comoros","COM","SSA",2015,26,NA,NA,3,8.76
+"Comoros","COM","SSA",2016,24,NA,NA,3,12.81
+"Comoros","COM","SSA",2017,27,NA,148,4,8.87
+"Comoros","COM","SSA",2018,27,NA,144,4,9
+"Comoros","COM","SSA",2019,25,NA,153,4,8.904729
+"Comoros","COM","SSA",2020,21,NA,160,4,5.749558
+"Comoros","COM","SSA",2021,20,NA,164,4,5.829758
+"Comoros","COM","SSA",2022,19,NA,167,4,5.478607
+"Comoros","COM","SSA",2023,20,NA,162,4,5.512739
+"Congo","COG","SSA",2012,NA,26,NA,6,3.3
+"Congo","COG","SSA",2013,NA,22,NA,6,3.8
+"Congo","COG","SSA",2014,23,NA,NA,6,4.2
+"Congo","COG","SSA",2015,23,NA,NA,6,4.11
+"Congo","COG","SSA",2016,20,NA,NA,5,1.78
+"Congo","COG","SSA",2017,21,NA,161,6,1.08
+"Congo","COG","SSA",2018,19,NA,165,6,1.04
+"Congo","COG","SSA",2019,19,NA,165,6,1.031566
+"Congo","COG","SSA",2020,19,NA,165,6,0.8016022
+"Congo","COG","SSA",2021,21,NA,162,7,1.456811
+"Congo","COG","SSA",2022,21,NA,164,7,1.262728
+"Congo","COG","SSA",2023,22,NA,158,7,1.471481
+"Costa Rica","CRI","AME",2012,NA,54,NA,5,7
+"Costa Rica","CRI","AME",2013,NA,53,NA,5,4.1
+"Costa Rica","CRI","AME",2014,54,NA,NA,5,4.07
+"Costa Rica","CRI","AME",2015,55,NA,NA,6,2.71
+"Costa Rica","CRI","AME",2016,58,NA,NA,7,3.17
+"Costa Rica","CRI","AME",2017,59,NA,38,7,2.98
+"Costa Rica","CRI","AME",2018,56,NA,48,7,3.65
+"Costa Rica","CRI","AME",2019,56,NA,44,7,3.971018
+"Costa Rica","CRI","AME",2020,57,NA,42,7,2.581013
+"Costa Rica","CRI","AME",2021,58,NA,39,7,2.42006
+"Costa Rica","CRI","AME",2022,54,NA,48,7,3.160666
+"Costa Rica","CRI","AME",2023,55,NA,45,7,2.899478
+"Cote d'Ivoire","CIV","SSA",2012,NA,29,NA,8,2.4
+"Cote d'Ivoire","CIV","SSA",2013,NA,27,NA,8,2.3
+"Cote d'Ivoire","CIV","SSA",2014,32,NA,NA,8,4.2
+"Cote d'Ivoire","CIV","SSA",2015,32,NA,NA,8,2.65
+"Cote d'Ivoire","CIV","SSA",2016,34,NA,NA,8,2.03
+"Cote d'Ivoire","CIV","SSA",2017,36,NA,103,8,2.03
+"Cote d'Ivoire","CIV","SSA",2018,35,NA,105,9,2.05
+"Cote d'Ivoire","CIV","SSA",2019,35,NA,106,9,2.488668
+"Cote d'Ivoire","CIV","SSA",2020,36,NA,104,9,1.458328
+"Cote d'Ivoire","CIV","SSA",2021,36,NA,105,9,1.403537
+"Cote d'Ivoire","CIV","SSA",2022,37,NA,99,9,1.9721
+"Cote d'Ivoire","CIV","SSA",2023,40,NA,87,9,1.890965
+"Croatia","HRV","WE/EU",2012,NA,46,NA,8,3.1
+"Croatia","HRV","WE/EU",2013,NA,48,NA,9,3.3
+"Croatia","HRV","WE/EU",2014,48,NA,NA,9,3.25
+"Croatia","HRV","WE/EU",2015,51,NA,NA,9,2.02
+"Croatia","HRV","WE/EU",2016,49,NA,NA,9,2.39
+"Croatia","HRV","WE/EU",2017,49,NA,57,10,2.64
+"Croatia","HRV","WE/EU",2018,48,NA,60,10,2.77
+"Croatia","HRV","WE/EU",2019,47,NA,63,10,2.417929
+"Croatia","HRV","WE/EU",2020,47,NA,63,10,1.476637
+"Croatia","HRV","WE/EU",2021,47,NA,63,10,1.561556
+"Croatia","HRV","WE/EU",2022,50,NA,57,9,0.9331777
+"Croatia","HRV","WE/EU",2023,50,NA,57,9,1.245027
+"Cuba","CUB","AME",2012,NA,48,NA,4,4.1
+"Cuba","CUB","AME",2013,NA,46,NA,4,4.5
+"Cuba","CUB","AME",2014,46,NA,NA,4,4.46
+"Cuba","CUB","AME",2015,47,NA,NA,4,3.64
+"Cuba","CUB","AME",2016,47,NA,NA,5,2.9
+"Cuba","CUB","AME",2017,47,NA,62,5,2.36
+"Cuba","CUB","AME",2018,47,NA,61,5,2.56
+"Cuba","CUB","AME",2019,48,NA,60,5,1.869706
+"Cuba","CUB","AME",2020,47,NA,63,5,2.812264
+"Cuba","CUB","AME",2021,46,NA,64,5,3.069005
+"Cuba","CUB","AME",2022,45,NA,65,5,2.870733
+"Cuba","CUB","AME",2023,42,NA,76,5,3.457847
+"Cyprus","CYP","WE/EU",2012,NA,66,NA,4,2.4
+"Cyprus","CYP","WE/EU",2013,NA,63,NA,5,3.9
+"Cyprus","CYP","WE/EU",2014,63,NA,NA,5,3.92
+"Cyprus","CYP","WE/EU",2015,61,NA,NA,5,4.17
+"Cyprus","CYP","WE/EU",2016,55,NA,NA,5,5.94
+"Cyprus","CYP","WE/EU",2017,57,NA,42,7,3.78
+"Cyprus","CYP","WE/EU",2018,59,NA,38,7,3.54
+"Cyprus","CYP","WE/EU",2019,58,NA,41,7,3.413456
+"Cyprus","CYP","WE/EU",2020,57,NA,42,7,3.191929
+"Cyprus","CYP","WE/EU",2021,53,NA,52,8,2.594445
+"Cyprus","CYP","WE/EU",2022,52,NA,51,8,2.457489
+"Cyprus","CYP","WE/EU",2023,53,NA,49,8,2.206436
+"Czechia","CZE","WE/EU",2012,NA,49,NA,10,2.9
+"Czechia","CZE","WE/EU",2013,NA,48,NA,10,3
+"Czechia","CZE","WE/EU",2014,51,NA,NA,9,2.94
+"Czechia","CZE","WE/EU",2015,56,NA,NA,9,2.21
+"Czechia","CZE","WE/EU",2016,55,NA,NA,9,2.24
+"Czechia","CZE","WE/EU",2017,57,NA,42,10,1.98
+"Czechia","CZE","WE/EU",2018,59,NA,38,10,2.28
+"Czechia","CZE","WE/EU",2019,56,NA,44,10,1.868036
+"Czechia","CZE","WE/EU",2020,54,NA,49,10,1.098983
+"Czechia","CZE","WE/EU",2021,54,NA,49,10,1.283622
+"Czechia","CZE","WE/EU",2022,56,NA,41,10,1.084798
+"Czechia","CZE","WE/EU",2023,57,NA,41,10,1.260941
+"Democratic Republic of the Congo","COD","SSA",2012,NA,21,NA,5,3.3
+"Democratic Republic of the Congo","COD","SSA",2013,NA,22,NA,5,4.2
+"Democratic Republic of the Congo","COD","SSA",2014,22,NA,NA,5,4.19
+"Democratic Republic of the Congo","COD","SSA",2015,22,NA,NA,6,3.35
+"Democratic Republic of the Congo","COD","SSA",2016,21,NA,NA,7,2.13
+"Democratic Republic of the Congo","COD","SSA",2017,21,NA,161,8,1.96
+"Democratic Republic of the Congo","COD","SSA",2018,20,NA,161,8,2.13
+"Democratic Republic of the Congo","COD","SSA",2019,18,NA,168,9,1.426883
+"Democratic Republic of the Congo","COD","SSA",2020,18,NA,170,9,0.7490472
+"Democratic Republic of the Congo","COD","SSA",2021,19,NA,169,9,1.001406
+"Democratic Republic of the Congo","COD","SSA",2022,20,NA,166,9,0.9935172
+"Democratic Republic of the Congo","COD","SSA",2023,20,NA,162,9,1.077086
+"Denmark","DNK","WE/EU",2012,NA,90,NA,7,2
+"Denmark","DNK","WE/EU",2013,NA,91,NA,7,2.2
+"Denmark","DNK","WE/EU",2014,92,NA,NA,7,2.04
+"Denmark","DNK","WE/EU",2015,91,NA,NA,7,2.16
+"Denmark","DNK","WE/EU",2016,90,NA,NA,7,2.46
+"Denmark","DNK","WE/EU",2017,88,NA,2,8,2.75
+"Denmark","DNK","WE/EU",2018,88,NA,1,8,2.63
+"Denmark","DNK","WE/EU",2019,87,NA,1,8,2.542474
+"Denmark","DNK","WE/EU",2020,88,NA,1,8,1.775809
+"Denmark","DNK","WE/EU",2021,88,NA,1,8,1.850507
+"Denmark","DNK","WE/EU",2022,90,NA,1,8,1.709309
+"Denmark","DNK","WE/EU",2023,90,NA,1,8,1.819265
+"Djibouti","DJI","SSA",2012,NA,36,NA,3,8.6
+"Djibouti","DJI","SSA",2013,NA,36,NA,3,8.6
+"Djibouti","DJI","SSA",2014,34,NA,NA,3,9.1
+"Djibouti","DJI","SSA",2015,34,NA,NA,3,9.07
+"Djibouti","DJI","SSA",2016,30,NA,NA,3,8.23
+"Djibouti","DJI","SSA",2017,31,NA,122,4,5.32
+"Djibouti","DJI","SSA",2018,31,NA,124,4,5.38
+"Djibouti","DJI","SSA",2019,30,NA,126,5,4.276603
+"Djibouti","DJI","SSA",2020,27,NA,142,5,1.529401
+"Djibouti","DJI","SSA",2021,30,NA,128,5,1.680318
+"Djibouti","DJI","SSA",2022,30,NA,130,5,1.737748
+"Djibouti","DJI","SSA",2023,30,NA,130,5,1.711382
+"Dominica","DMA","AME",2012,NA,58,NA,3,2.3
+"Dominica","DMA","AME",2013,NA,58,NA,3,2.3
+"Dominica","DMA","AME",2014,58,NA,NA,3,2.34
+"Dominica","DMA","AME",2015,NA,NA,NA,NA,NA
+"Dominica","DMA","AME",2016,59,NA,NA,3,0.85
+"Dominica","DMA","AME",2017,57,NA,42,3,2.55
+"Dominica","DMA","AME",2018,57,NA,45,3,2.55
+"Dominica","DMA","AME",2019,55,NA,48,3,2.164824
+"Dominica","DMA","AME",2020,55,NA,48,3,1.976205
+"Dominica","DMA","AME",2021,55,NA,45,3,1.976205
+"Dominica","DMA","AME",2022,55,NA,45,3,1.896461
+"Dominica","DMA","AME",2023,56,NA,42,3,1.914757
+"Dominican Republic","DOM","AME",2012,NA,32,NA,6,2.7
+"Dominican Republic","DOM","AME",2013,NA,29,NA,6,3.5
+"Dominican Republic","DOM","AME",2014,32,NA,NA,6,3.3
+"Dominican Republic","DOM","AME",2015,33,NA,NA,6,2.63
+"Dominican Republic","DOM","AME",2016,31,NA,NA,6,1.89
+"Dominican Republic","DOM","AME",2017,29,NA,135,7,2.56
+"Dominican Republic","DOM","AME",2018,30,NA,129,7,2.57
+"Dominican Republic","DOM","AME",2019,28,NA,137,7,2.699341
+"Dominican Republic","DOM","AME",2020,28,NA,137,7,1.913811
+"Dominican Republic","DOM","AME",2021,30,NA,128,7,1.157533
+"Dominican Republic","DOM","AME",2022,32,NA,123,7,1.305089
+"Dominican Republic","DOM","AME",2023,35,NA,108,7,1.621773
+"Ecuador","ECU","AME",2012,NA,32,NA,6,2.9
+"Ecuador","ECU","AME",2013,NA,35,NA,6,3.6
+"Ecuador","ECU","AME",2014,33,NA,NA,5,3.56
+"Ecuador","ECU","AME",2015,32,NA,NA,6,2.86
+"Ecuador","ECU","AME",2016,31,NA,NA,6,1.96
+"Ecuador","ECU","AME",2017,32,NA,117,7,2.66
+"Ecuador","ECU","AME",2018,34,NA,114,7,3.46
+"Ecuador","ECU","AME",2019,38,NA,93,7,2.19252
+"Ecuador","ECU","AME",2020,39,NA,92,7,1.732201
+"Ecuador","ECU","AME",2021,36,NA,105,7,1.576255
+"Ecuador","ECU","AME",2022,36,NA,101,7,1.071171
+"Ecuador","ECU","AME",2023,34,NA,115,7,1.475489
+"Egypt","EGY","MENA",2012,NA,32,NA,7,3.1
+"Egypt","EGY","MENA",2013,NA,32,NA,7,3.1
+"Egypt","EGY","MENA",2014,37,NA,NA,6,2.91
+"Egypt","EGY","MENA",2015,36,NA,NA,6,2.47
+"Egypt","EGY","MENA",2016,34,NA,NA,6,2.72
+"Egypt","EGY","MENA",2017,32,NA,117,7,4.04
+"Egypt","EGY","MENA",2018,35,NA,105,7,4.59
+"Egypt","EGY","MENA",2019,35,NA,106,7,4.863433
+"Egypt","EGY","MENA",2020,33,NA,117,7,3.681736
+"Egypt","EGY","MENA",2021,33,NA,117,7,4.088
+"Egypt","EGY","MENA",2022,30,NA,130,6,1.780133
+"Egypt","EGY","MENA",2023,35,NA,108,7,3.745501
+"El Salvador","SLV","AME",2012,NA,38,NA,6,2.8
+"El Salvador","SLV","AME",2013,NA,38,NA,6,2
+"El Salvador","SLV","AME",2014,39,NA,NA,6,1.98
+"El Salvador","SLV","AME",2015,39,NA,NA,6,2.26
+"El Salvador","SLV","AME",2016,36,NA,NA,7,2.76
+"El Salvador","SLV","AME",2017,33,NA,112,7,3.25
+"El Salvador","SLV","AME",2018,35,NA,105,7,2.59
+"El Salvador","SLV","AME",2019,34,NA,113,7,2.563654
+"El Salvador","SLV","AME",2020,36,NA,104,7,1.378282
+"El Salvador","SLV","AME",2021,34,NA,115,7,1.591921
+"El Salvador","SLV","AME",2022,33,NA,116,7,1.910915
+"El Salvador","SLV","AME",2023,31,NA,126,7,1.256549
+"Equatorial Guinea","GNQ","SSA",2012,NA,20,NA,3,1.3
+"Equatorial Guinea","GNQ","SSA",2013,NA,19,NA,3,2.2
+"Equatorial Guinea","GNQ","SSA",2014,NA,NA,NA,NA,NA
+"Equatorial Guinea","GNQ","SSA",2015,NA,NA,NA,NA,NA
+"Equatorial Guinea","GNQ","SSA",2016,NA,NA,NA,NA,NA
+"Equatorial Guinea","GNQ","SSA",2017,17,NA,171,3,3.56
+"Equatorial Guinea","GNQ","SSA",2018,16,NA,172,3,2.82
+"Equatorial Guinea","GNQ","SSA",2019,16,NA,173,4,2.997751
+"Equatorial Guinea","GNQ","SSA",2020,16,NA,174,4,2.596128
+"Equatorial Guinea","GNQ","SSA",2021,17,NA,172,4,2.548162
+"Equatorial Guinea","GNQ","SSA",2022,17,NA,171,4,2.548162
+"Equatorial Guinea","GNQ","SSA",2023,17,NA,172,4,2.567484
+"Eritrea","ERI","SSA",2012,NA,25,NA,4,9.2
+"Eritrea","ERI","SSA",2013,NA,20,NA,4,11
+"Eritrea","ERI","SSA",2014,18,NA,NA,4,7.91
+"Eritrea","ERI","SSA",2015,18,NA,NA,4,8.15
+"Eritrea","ERI","SSA",2016,18,NA,NA,5,6.24
+"Eritrea","ERI","SSA",2017,20,NA,165,5,5.74
+"Eritrea","ERI","SSA",2018,24,NA,157,5,8.24
+"Eritrea","ERI","SSA",2019,23,NA,160,5,6.657395
+"Eritrea","ERI","SSA",2020,21,NA,160,5,4.579689
+"Eritrea","ERI","SSA",2021,22,NA,161,5,4.991703
+"Eritrea","ERI","SSA",2022,22,NA,162,5,4.78386
+"Eritrea","ERI","SSA",2023,21,NA,161,5,4.729734
+"Estonia","EST","WE/EU",2012,NA,64,NA,8,3
+"Estonia","EST","WE/EU",2013,NA,68,NA,9,2.7
+"Estonia","EST","WE/EU",2014,69,NA,NA,9,2.89
+"Estonia","EST","WE/EU",2015,70,NA,NA,9,2.79
+"Estonia","EST","WE/EU",2016,70,NA,NA,10,2.16
+"Estonia","EST","WE/EU",2017,71,NA,21,10,2.21
+"Estonia","EST","WE/EU",2018,73,NA,18,10,1.44
+"Estonia","EST","WE/EU",2019,74,NA,18,10,1.209875
+"Estonia","EST","WE/EU",2020,75,NA,17,10,0.872954
+"Estonia","EST","WE/EU",2021,74,NA,13,10,0.9226964
+"Estonia","EST","WE/EU",2022,74,NA,14,10,1.012676
+"Estonia","EST","WE/EU",2023,76,NA,12,10,1.056476
+"Eswatini","SWZ","SSA",2012,NA,37,NA,4,2.1
+"Eswatini","SWZ","SSA",2013,NA,39,NA,4,1.8
+"Eswatini","SWZ","SSA",2014,43,NA,NA,3,2.98
+"Eswatini","SWZ","SSA",2015,NA,NA,NA,NA,NA
+"Eswatini","SWZ","SSA",2016,NA,NA,NA,NA,NA
+"Eswatini","SWZ","SSA",2017,39,NA,85,3,5.81
+"Eswatini","SWZ","SSA",2018,38,NA,89,3,4.48
+"Eswatini","SWZ","SSA",2019,34,NA,113,4,6.075864
+"Eswatini","SWZ","SSA",2020,33,NA,117,4,4.93164
+"Eswatini","SWZ","SSA",2021,32,NA,122,3,7.1218
+"Eswatini","SWZ","SSA",2022,30,NA,130,3,5.899071
+"Eswatini","SWZ","SSA",2023,30,NA,130,3,5.899071
+"Ethiopia","ETH","SSA",2012,NA,33,NA,8,1.6
+"Ethiopia","ETH","SSA",2013,NA,33,NA,8,2.5
+"Ethiopia","ETH","SSA",2014,33,NA,NA,8,2.54
+"Ethiopia","ETH","SSA",2015,33,NA,NA,8,2.73
+"Ethiopia","ETH","SSA",2016,34,NA,NA,9,1.37
+"Ethiopia","ETH","SSA",2017,35,NA,107,9,1.36
+"Ethiopia","ETH","SSA",2018,34,NA,114,8,1.52
+"Ethiopia","ETH","SSA",2019,37,NA,96,9,1.516015
+"Ethiopia","ETH","SSA",2020,38,NA,94,9,1.002015
+"Ethiopia","ETH","SSA",2021,39,NA,87,8,1.212617
+"Ethiopia","ETH","SSA",2022,38,NA,94,8,1.31184
+"Ethiopia","ETH","SSA",2023,37,NA,98,8,1.204134
+"Fiji","FJI","AP",2012,NA,NA,NA,NA,NA
+"Fiji","FJI","AP",2013,NA,NA,NA,NA,NA
+"Fiji","FJI","AP",2014,NA,NA,NA,NA,NA
+"Fiji","FJI","AP",2015,NA,NA,NA,NA,NA
+"Fiji","FJI","AP",2016,NA,NA,NA,NA,NA
+"Fiji","FJI","AP",2017,NA,NA,NA,NA,NA
+"Fiji","FJI","AP",2018,NA,NA,NA,NA,NA
+"Fiji","FJI","AP",2019,NA,NA,NA,NA,NA
+"Fiji","FJI","AP",2020,NA,NA,NA,NA,NA
+"Fiji","FJI","AP",2021,55,NA,45,3,5.158524
+"Fiji","FJI","AP",2022,53,NA,49,3,4.318408
+"Fiji","FJI","AP",2023,52,NA,53,3,4.154759
+"Finland","FIN","WE/EU",2012,NA,90,NA,7,3
+"Finland","FIN","WE/EU",2013,NA,89,NA,7,1.7
+"Finland","FIN","WE/EU",2014,89,NA,NA,7,2.05
+"Finland","FIN","WE/EU",2015,90,NA,NA,7,1.77
+"Finland","FIN","WE/EU",2016,89,NA,NA,7,1.46
+"Finland","FIN","WE/EU",2017,85,NA,3,8,2.84
+"Finland","FIN","WE/EU",2018,85,NA,3,8,2.74
+"Finland","FIN","WE/EU",2019,86,NA,3,8,2.924511
+"Finland","FIN","WE/EU",2020,85,NA,3,8,1.748594
+"Finland","FIN","WE/EU",2021,88,NA,1,8,1.24828
+"Finland","FIN","WE/EU",2022,87,NA,2,8,1.193896
+"Finland","FIN","WE/EU",2023,87,NA,2,8,1.057962
+"France","FRA","WE/EU",2012,NA,71,NA,8,2.4
+"France","FRA","WE/EU",2013,NA,71,NA,8,2.4
+"France","FRA","WE/EU",2014,69,NA,NA,7,2.17
+"France","FRA","WE/EU",2015,70,NA,NA,7,2.49
+"France","FRA","WE/EU",2016,69,NA,NA,7,2.97
+"France","FRA","WE/EU",2017,70,NA,23,8,1.36
+"France","FRA","WE/EU",2018,72,NA,21,8,1.17
+"France","FRA","WE/EU",2019,69,NA,23,8,2.280289
+"France","FRA","WE/EU",2020,69,NA,23,8,1.40067
+"France","FRA","WE/EU",2021,71,NA,22,8,1.299853
+"France","FRA","WE/EU",2022,72,NA,21,8,0.644383
+"France","FRA","WE/EU",2023,71,NA,20,8,0.4335674
+"Gabon","GAB","SSA",2012,NA,35,NA,5,2.1
+"Gabon","GAB","SSA",2013,NA,34,NA,5,1.5
+"Gabon","GAB","SSA",2014,37,NA,NA,4,4.19
+"Gabon","GAB","SSA",2015,34,NA,NA,4,1.65
+"Gabon","GAB","SSA",2016,35,NA,NA,4,0.97
+"Gabon","GAB","SSA",2017,32,NA,117,4,3.22
+"Gabon","GAB","SSA",2018,31,NA,124,4,3.92
+"Gabon","GAB","SSA",2019,31,NA,123,6,2.407603
+"Gabon","GAB","SSA",2020,30,NA,129,6,2.348292
+"Gabon","GAB","SSA",2021,31,NA,124,5,2.395403
+"Gabon","GAB","SSA",2022,29,NA,136,6,2.069705
+"Gabon","GAB","SSA",2023,28,NA,136,6,2.32452
+"Gambia","GMB","SSA",2012,NA,34,NA,5,7
+"Gambia","GMB","SSA",2013,NA,28,NA,5,6.7
+"Gambia","GMB","SSA",2014,29,NA,NA,5,7.55
+"Gambia","GMB","SSA",2015,28,NA,NA,5,6.67
+"Gambia","GMB","SSA",2016,26,NA,NA,5,7.2
+"Gambia","GMB","SSA",2017,30,NA,130,6,6.22
+"Gambia","GMB","SSA",2018,37,NA,93,6,9.44
+"Gambia","GMB","SSA",2019,37,NA,96,7,5.980328
+"Gambia","GMB","SSA",2020,37,NA,102,8,3.193978
+"Gambia","GMB","SSA",2021,37,NA,102,8,3.383628
+"Gambia","GMB","SSA",2022,34,NA,110,7,3.762664
+"Gambia","GMB","SSA",2023,37,NA,98,7,3.338873
+"Georgia","GEO","ECA",2012,NA,52,NA,6,6
+"Georgia","GEO","ECA",2013,NA,49,NA,6,6.9
+"Georgia","GEO","ECA",2014,52,NA,NA,6,6.47
+"Georgia","GEO","ECA",2015,52,NA,NA,5,6.53
+"Georgia","GEO","ECA",2016,57,NA,NA,6,3.61
+"Georgia","GEO","ECA",2017,56,NA,46,6,3.1
+"Georgia","GEO","ECA",2018,58,NA,41,6,3.92
+"Georgia","GEO","ECA",2019,56,NA,44,5,3.835593
+"Georgia","GEO","ECA",2020,56,NA,45,5,3.149734
+"Georgia","GEO","ECA",2021,55,NA,45,6,2.843186
+"Georgia","GEO","ECA",2022,56,NA,41,6,3.026622
+"Georgia","GEO","ECA",2023,53,NA,49,6,3.99419
+"Germany","DEU","WE/EU",2012,NA,79,NA,8,2.3
+"Germany","DEU","WE/EU",2013,NA,78,NA,8,2.4
+"Germany","DEU","WE/EU",2014,79,NA,NA,7,2.58
+"Germany","DEU","WE/EU",2015,81,NA,NA,7,2.5
+"Germany","DEU","WE/EU",2016,81,NA,NA,7,2.73
+"Germany","DEU","WE/EU",2017,81,NA,12,8,1.87
+"Germany","DEU","WE/EU",2018,80,NA,11,8,2.49
+"Germany","DEU","WE/EU",2019,80,NA,9,8,3.30976
+"Germany","DEU","WE/EU",2020,80,NA,9,8,1.999585
+"Germany","DEU","WE/EU",2021,80,NA,10,8,1.763459
+"Germany","DEU","WE/EU",2022,79,NA,9,8,2.16827
+"Germany","DEU","WE/EU",2023,78,NA,9,8,2.143723
+"Ghana","GHA","SSA",2012,NA,45,NA,9,3.8
+"Ghana","GHA","SSA",2013,NA,46,NA,9,3.3
+"Ghana","GHA","SSA",2014,48,NA,NA,8,3.01
+"Ghana","GHA","SSA",2015,47,NA,NA,8,2.82
+"Ghana","GHA","SSA",2016,43,NA,NA,9,2.89
+"Ghana","GHA","SSA",2017,40,NA,81,9,2.56
+"Ghana","GHA","SSA",2018,41,NA,78,9,2.54
+"Ghana","GHA","SSA",2019,41,NA,80,9,2.756812
+"Ghana","GHA","SSA",2020,43,NA,75,9,1.516466
+"Ghana","GHA","SSA",2021,43,NA,73,9,1.530811
+"Ghana","GHA","SSA",2022,43,NA,72,9,1.431706
+"Ghana","GHA","SSA",2023,43,NA,70,9,1.46851
+"Greece","GRC","WE/EU",2012,NA,36,NA,7,3.6
+"Greece","GRC","WE/EU",2013,NA,40,NA,7,4.5
+"Greece","GRC","WE/EU",2014,43,NA,NA,7,5.56
+"Greece","GRC","WE/EU",2015,46,NA,NA,7,5.08
+"Greece","GRC","WE/EU",2016,44,NA,NA,7,2.5
+"Greece","GRC","WE/EU",2017,48,NA,59,8,2.98
+"Greece","GRC","WE/EU",2018,45,NA,67,8,2.51
+"Greece","GRC","WE/EU",2019,48,NA,60,8,2.56823
+"Greece","GRC","WE/EU",2020,50,NA,59,8,1.810346
+"Greece","GRC","WE/EU",2021,49,NA,58,8,1.626499
+"Greece","GRC","WE/EU",2022,52,NA,51,8,2.143546
+"Greece","GRC","WE/EU",2023,49,NA,59,8,2.209554
+"Grenada","GRD","AME",2012,NA,NA,NA,NA,NA
+"Grenada","GRD","AME",2013,NA,NA,NA,NA,NA
+"Grenada","GRD","AME",2014,NA,NA,NA,NA,NA
+"Grenada","GRD","AME",2015,NA,NA,NA,NA,NA
+"Grenada","GRD","AME",2016,56,NA,NA,3,4.63
+"Grenada","GRD","AME",2017,52,NA,52,3,3
+"Grenada","GRD","AME",2018,52,NA,53,3,3
+"Grenada","GRD","AME",2019,53,NA,51,3,4.3738
+"Grenada","GRD","AME",2020,53,NA,52,3,3.481887
+"Grenada","GRD","AME",2021,53,NA,52,3,3.992716
+"Grenada","GRD","AME",2022,52,NA,51,3,3.230875
+"Grenada","GRD","AME",2023,53,NA,49,3,3.736033
+"Guatemala","GTM","AME",2012,NA,33,NA,6,2.7
+"Guatemala","GTM","AME",2013,NA,29,NA,6,2.6
+"Guatemala","GTM","AME",2014,32,NA,NA,6,2.96
+"Guatemala","GTM","AME",2015,28,NA,NA,6,3.46
+"Guatemala","GTM","AME",2016,28,NA,NA,6,2.58
+"Guatemala","GTM","AME",2017,28,NA,143,7,2.19
+"Guatemala","GTM","AME",2018,27,NA,144,7,2.56
+"Guatemala","GTM","AME",2019,26,NA,146,7,2.231707
+"Guatemala","GTM","AME",2020,25,NA,149,7,1.380452
+"Guatemala","GTM","AME",2021,25,NA,150,7,1.173231
+"Guatemala","GTM","AME",2022,24,NA,150,7,1.129734
+"Guatemala","GTM","AME",2023,23,NA,154,7,1.362267
+"Guinea","GIN","SSA",2012,NA,24,NA,7,2.7
+"Guinea","GIN","SSA",2013,NA,24,NA,7,3.6
+"Guinea","GIN","SSA",2014,25,NA,NA,7,3.21
+"Guinea","GIN","SSA",2015,25,NA,NA,6,3.16
+"Guinea","GIN","SSA",2016,27,NA,NA,5,2.54
+"Guinea","GIN","SSA",2017,27,NA,148,7,2.37
+"Guinea","GIN","SSA",2018,28,NA,138,6,2.67
+"Guinea","GIN","SSA",2019,29,NA,130,8,2.499444
+"Guinea","GIN","SSA",2020,28,NA,137,8,1.878107
+"Guinea","GIN","SSA",2021,25,NA,150,8,1.268435
+"Guinea","GIN","SSA",2022,25,NA,147,7,1.602557
+"Guinea","GIN","SSA",2023,26,NA,141,7,1.69493
+"Guinea Bissau","GNB","SSA",2012,NA,25,NA,4,2.1
+"Guinea Bissau","GNB","SSA",2013,NA,19,NA,4,2.4
+"Guinea Bissau","GNB","SSA",2014,19,NA,NA,4,2.37
+"Guinea Bissau","GNB","SSA",2015,17,NA,NA,4,2.63
+"Guinea Bissau","GNB","SSA",2016,16,NA,NA,4,2.09
+"Guinea Bissau","GNB","SSA",2017,17,NA,171,5,1.7
+"Guinea Bissau","GNB","SSA",2018,16,NA,172,5,1.97
+"Guinea Bissau","GNB","SSA",2019,18,NA,168,6,2.909114
+"Guinea Bissau","GNB","SSA",2020,19,NA,165,6,2.70877
+"Guinea Bissau","GNB","SSA",2021,21,NA,162,6,2.692334
+"Guinea Bissau","GNB","SSA",2022,21,NA,164,6,2.668904
+"Guinea Bissau","GNB","SSA",2023,22,NA,158,6,2.925183
+"Guyana","GUY","AME",2012,NA,28,NA,4,2.1
+"Guyana","GUY","AME",2013,NA,27,NA,4,2.9
+"Guyana","GUY","AME",2014,30,NA,NA,4,3.03
+"Guyana","GUY","AME",2015,29,NA,NA,4,3.01
+"Guyana","GUY","AME",2016,34,NA,NA,6,3.57
+"Guyana","GUY","AME",2017,38,NA,91,5,1.84
+"Guyana","GUY","AME",2018,37,NA,93,5,0.77
+"Guyana","GUY","AME",2019,40,NA,85,5,3.337288
+"Guyana","GUY","AME",2020,41,NA,83,5,3.539517
+"Guyana","GUY","AME",2021,39,NA,87,5,2.13326
+"Guyana","GUY","AME",2022,40,NA,85,5,2.183024
+"Guyana","GUY","AME",2023,40,NA,87,5,2.313902
+"Haiti","HTI","AME",2012,NA,19,NA,5,2.8
+"Haiti","HTI","AME",2013,NA,19,NA,5,3.1
+"Haiti","HTI","AME",2014,19,NA,NA,5,2.86
+"Haiti","HTI","AME",2015,17,NA,NA,5,2.74
+"Haiti","HTI","AME",2016,20,NA,NA,5,1.81
+"Haiti","HTI","AME",2017,22,NA,157,6,2.05
+"Haiti","HTI","AME",2018,20,NA,161,6,2.47
+"Haiti","HTI","AME",2019,18,NA,168,6,3.234971
+"Haiti","HTI","AME",2020,18,NA,170,6,2.47075
+"Haiti","HTI","AME",2021,20,NA,164,6,0.7415972
+"Haiti","HTI","AME",2022,17,NA,171,6,1.343835
+"Haiti","HTI","AME",2023,17,NA,172,6,1.32469
+"Honduras","HND","AME",2012,NA,28,NA,6,2.4
+"Honduras","HND","AME",2013,NA,26,NA,6,2.5
+"Honduras","HND","AME",2014,29,NA,NA,6,3.49
+"Honduras","HND","AME",2015,31,NA,NA,7,4.12
+"Honduras","HND","AME",2016,30,NA,NA,7,3.05
+"Honduras","HND","AME",2017,29,NA,135,8,2.32
+"Honduras","HND","AME",2018,29,NA,132,8,2.42
+"Honduras","HND","AME",2019,26,NA,146,7,3.254164
+"Honduras","HND","AME",2020,24,NA,157,7,1.523377
+"Honduras","HND","AME",2021,23,NA,157,8,0.8461102
+"Honduras","HND","AME",2022,23,NA,157,8,0.5017294
+"Honduras","HND","AME",2023,23,NA,154,8,0.5349705
+"Hong Kong","HKG","AP",2012,NA,77,NA,8,1.9
+"Hong Kong","HKG","AP",2013,NA,75,NA,8,2.4
+"Hong Kong","HKG","AP",2014,74,NA,NA,7,2.75
+"Hong Kong","HKG","AP",2015,75,NA,NA,7,2.48
+"Hong Kong","HKG","AP",2016,77,NA,NA,7,2.62
+"Hong Kong","HKG","AP",2017,77,NA,13,7,2.37
+"Hong Kong","HKG","AP",2018,76,NA,14,8,2.47
+"Hong Kong","HKG","AP",2019,76,NA,16,8,3.152059
+"Hong Kong","HKG","AP",2020,77,NA,11,8,1.794969
+"Hong Kong","HKG","AP",2021,76,NA,12,8,1.846345
+"Hong Kong","HKG","AP",2022,76,NA,12,8,1.613287
+"Hong Kong","HKG","AP",2023,75,NA,14,8,2.180528
+"Hungary","HUN","WE/EU",2012,NA,55,NA,10,3.5
+"Hungary","HUN","WE/EU",2013,NA,54,NA,10,3.6
+"Hungary","HUN","WE/EU",2014,54,NA,NA,9,3.45
+"Hungary","HUN","WE/EU",2015,51,NA,NA,9,3.73
+"Hungary","HUN","WE/EU",2016,48,NA,NA,9,2.89
+"Hungary","HUN","WE/EU",2017,45,NA,66,10,2.89
+"Hungary","HUN","WE/EU",2018,46,NA,64,10,2.79
+"Hungary","HUN","WE/EU",2019,44,NA,70,10,2.577171
+"Hungary","HUN","WE/EU",2020,44,NA,69,10,1.271558
+"Hungary","HUN","WE/EU",2021,43,NA,73,10,1.30121
+"Hungary","HUN","WE/EU",2022,42,NA,77,10,1.46274
+"Hungary","HUN","WE/EU",2023,42,NA,76,10,1.301299
+"Iceland","ISL","WE/EU",2012,NA,82,NA,6,4.1
+"Iceland","ISL","WE/EU",2013,NA,78,NA,6,2.8
+"Iceland","ISL","WE/EU",2014,79,NA,NA,6,3.16
+"Iceland","ISL","WE/EU",2015,79,NA,NA,5,4.53
+"Iceland","ISL","WE/EU",2016,78,NA,NA,6,3.81
+"Iceland","ISL","WE/EU",2017,77,NA,13,7,4.38
+"Iceland","ISL","WE/EU",2018,76,NA,14,7,4.33
+"Iceland","ISL","WE/EU",2019,78,NA,11,7,4.627051
+"Iceland","ISL","WE/EU",2020,75,NA,17,7,3.864742
+"Iceland","ISL","WE/EU",2021,74,NA,13,7,3.704399
+"Iceland","ISL","WE/EU",2022,74,NA,14,7,3.831931
+"Iceland","ISL","WE/EU",2023,72,NA,19,7,3.538609
+"India","IND","AP",2012,NA,36,NA,10,2.1
+"India","IND","AP",2013,NA,36,NA,10,2.2
+"India","IND","AP",2014,38,NA,NA,9,2.27
+"India","IND","AP",2015,38,NA,NA,8,3.14
+"India","IND","AP",2016,40,NA,NA,8,2.47
+"India","IND","AP",2017,40,NA,81,9,2.16
+"India","IND","AP",2018,41,NA,78,9,2.42
+"India","IND","AP",2019,41,NA,80,9,1.604926
+"India","IND","AP",2020,40,NA,86,9,1.141572
+"India","IND","AP",2021,40,NA,85,9,1.173647
+"India","IND","AP",2022,40,NA,85,9,1.182201
+"India","IND","AP",2023,39,NA,93,9,1.256354
+"Indonesia","IDN","AP",2012,NA,32,NA,9,2.9
+"Indonesia","IDN","AP",2013,NA,32,NA,9,3.5
+"Indonesia","IDN","AP",2014,34,NA,NA,8,3.57
+"Indonesia","IDN","AP",2015,36,NA,NA,8,3.39
+"Indonesia","IDN","AP",2016,37,NA,NA,8,2.39
+"Indonesia","IDN","AP",2017,37,NA,96,9,3.12
+"Indonesia","IDN","AP",2018,38,NA,89,9,3.35
+"Indonesia","IDN","AP",2019,40,NA,85,9,3.756684
+"Indonesia","IDN","AP",2020,37,NA,102,9,1.708278
+"Indonesia","IDN","AP",2021,38,NA,96,9,2.138731
+"Indonesia","IDN","AP",2022,34,NA,110,8,1.783472
+"Indonesia","IDN","AP",2023,34,NA,115,8,1.804611
+"Iran","IRN","MENA",2012,NA,28,NA,6,4.6
+"Iran","IRN","MENA",2013,NA,25,NA,6,3.9
+"Iran","IRN","MENA",2014,27,NA,NA,6,4.72
+"Iran","IRN","MENA",2015,27,NA,NA,6,3.28
+"Iran","IRN","MENA",2016,29,NA,NA,7,2.47
+"Iran","IRN","MENA",2017,30,NA,130,7,3.51
+"Iran","IRN","MENA",2018,28,NA,138,7,2.89
+"Iran","IRN","MENA",2019,26,NA,146,7,3.626302
+"Iran","IRN","MENA",2020,25,NA,149,7,2.55992
+"Iran","IRN","MENA",2021,25,NA,150,7,2.293519
+"Iran","IRN","MENA",2022,25,NA,147,7,2.322661
+"Iran","IRN","MENA",2023,24,NA,149,6,2.626714
+"Iraq","IRQ","MENA",2012,NA,18,NA,4,2.3
+"Iraq","IRQ","MENA",2013,NA,16,NA,4,2.4
+"Iraq","IRQ","MENA",2014,16,NA,NA,4,2.37
+"Iraq","IRQ","MENA",2015,16,NA,NA,4,2.5
+"Iraq","IRQ","MENA",2016,17,NA,NA,5,1.87
+"Iraq","IRQ","MENA",2017,18,NA,169,5,2.47
+"Iraq","IRQ","MENA",2018,18,NA,168,5,2.63
+"Iraq","IRQ","MENA",2019,20,NA,162,5,2.980012
+"Iraq","IRQ","MENA",2020,21,NA,160,5,2.522758
+"Iraq","IRQ","MENA",2021,23,NA,157,5,4.018973
+"Iraq","IRQ","MENA",2022,23,NA,157,5,3.984978
+"Iraq","IRQ","MENA",2023,23,NA,154,5,4.13955
+"Ireland","IRL","WE/EU",2012,NA,69,NA,6,3.5
+"Ireland","IRL","WE/EU",2013,NA,72,NA,6,4.2
+"Ireland","IRL","WE/EU",2014,74,NA,NA,6,4.75
+"Ireland","IRL","WE/EU",2015,75,NA,NA,6,4.92
+"Ireland","IRL","WE/EU",2016,73,NA,NA,6,4.31
+"Ireland","IRL","WE/EU",2017,74,NA,19,7,3.68
+"Ireland","IRL","WE/EU",2018,73,NA,18,7,3.25
+"Ireland","IRL","WE/EU",2019,74,NA,18,7,3.610982
+"Ireland","IRL","WE/EU",2020,72,NA,20,7,2.152309
+"Ireland","IRL","WE/EU",2021,74,NA,13,8,0.6804043
+"Ireland","IRL","WE/EU",2022,77,NA,10,8,0.7929971
+"Ireland","IRL","WE/EU",2023,77,NA,11,8,1.169134
+"Israel","ISR","MENA",2012,NA,60,NA,5,2.9
+"Israel","ISR","MENA",2013,NA,61,NA,6,1.6
+"Israel","ISR","MENA",2014,60,NA,NA,6,2.34
+"Israel","ISR","MENA",2015,61,NA,NA,6,2.78
+"Israel","ISR","MENA",2016,64,NA,NA,6,2.27
+"Israel","ISR","MENA",2017,62,NA,32,7,2.19
+"Israel","ISR","MENA",2018,61,NA,34,7,1.49
+"Israel","ISR","MENA",2019,60,NA,35,7,1.989104
+"Israel","ISR","MENA",2020,60,NA,35,7,1.338424
+"Israel","ISR","MENA",2021,59,NA,36,7,2.054172
+"Israel","ISR","MENA",2022,63,NA,31,7,2.052844
+"Israel","ISR","MENA",2023,62,NA,33,6,2.445155
+"Italy","ITA","WE/EU",2012,NA,42,NA,7,2.4
+"Italy","ITA","WE/EU",2013,NA,43,NA,7,2.5
+"Italy","ITA","WE/EU",2014,43,NA,NA,7,2.26
+"Italy","ITA","WE/EU",2015,44,NA,NA,7,2.5
+"Italy","ITA","WE/EU",2016,47,NA,NA,7,3.34
+"Italy","ITA","WE/EU",2017,50,NA,54,8,3.72
+"Italy","ITA","WE/EU",2018,52,NA,53,8,3.29
+"Italy","ITA","WE/EU",2019,53,NA,51,8,3.215638
+"Italy","ITA","WE/EU",2020,53,NA,52,8,2.107895
+"Italy","ITA","WE/EU",2021,56,NA,42,8,1.461298
+"Italy","ITA","WE/EU",2022,56,NA,41,8,1.706507
+"Italy","ITA","WE/EU",2023,56,NA,42,8,1.664529
+"Jamaica","JAM","AME",2012,NA,38,NA,6,2.2
+"Jamaica","JAM","AME",2013,NA,38,NA,6,1.8
+"Jamaica","JAM","AME",2014,38,NA,NA,6,1.8
+"Jamaica","JAM","AME",2015,41,NA,NA,6,1.68
+"Jamaica","JAM","AME",2016,39,NA,NA,6,1.84
+"Jamaica","JAM","AME",2017,44,NA,68,7,3.96
+"Jamaica","JAM","AME",2018,44,NA,70,7,3.37
+"Jamaica","JAM","AME",2019,43,NA,74,7,3.583508
+"Jamaica","JAM","AME",2020,44,NA,69,7,3.343189
+"Jamaica","JAM","AME",2021,44,NA,70,6,3.664829
+"Jamaica","JAM","AME",2022,44,NA,69,6,3.659677
+"Jamaica","JAM","AME",2023,44,NA,69,7,3.061407
+"Japan","JPN","AP",2012,NA,74,NA,9,2.3
+"Japan","JPN","AP",2013,NA,74,NA,9,2.4
+"Japan","JPN","AP",2014,76,NA,NA,8,3.16
+"Japan","JPN","AP",2015,75,NA,NA,8,2.96
+"Japan","JPN","AP",2016,72,NA,NA,8,3.02
+"Japan","JPN","AP",2017,73,NA,20,9,2.66
+"Japan","JPN","AP",2018,73,NA,18,9,2.85
+"Japan","JPN","AP",2019,73,NA,20,9,3.510482
+"Japan","JPN","AP",2020,74,NA,19,9,2.024722
+"Japan","JPN","AP",2021,73,NA,18,9,2.100073
+"Japan","JPN","AP",2022,73,NA,18,9,1.856516
+"Japan","JPN","AP",2023,73,NA,16,9,1.748538
+"Jordan","JOR","MENA",2012,NA,48,NA,7,3.1
+"Jordan","JOR","MENA",2013,NA,45,NA,7,2.4
+"Jordan","JOR","MENA",2014,49,NA,NA,7,2.87
+"Jordan","JOR","MENA",2015,53,NA,NA,7,3
+"Jordan","JOR","MENA",2016,48,NA,NA,8,3.03
+"Jordan","JOR","MENA",2017,48,NA,59,8,2.99
+"Jordan","JOR","MENA",2018,49,NA,58,8,3.21
+"Jordan","JOR","MENA",2019,48,NA,60,8,3.292418
+"Jordan","JOR","MENA",2020,49,NA,60,8,2.201044
+"Jordan","JOR","MENA",2021,49,NA,58,8,2.64918
+"Jordan","JOR","MENA",2022,47,NA,61,8,2.38117
+"Jordan","JOR","MENA",2023,46,NA,63,7,2.868004
+"Kazakhstan","KAZ","ECA",2012,NA,28,NA,8,4.1
+"Kazakhstan","KAZ","ECA",2013,NA,26,NA,8,3.3
+"Kazakhstan","KAZ","ECA",2014,29,NA,NA,8,4.4
+"Kazakhstan","KAZ","ECA",2015,28,NA,NA,8,4.9
+"Kazakhstan","KAZ","ECA",2016,29,NA,NA,9,3.35
+"Kazakhstan","KAZ","ECA",2017,31,NA,122,9,3.59
+"Kazakhstan","KAZ","ECA",2018,31,NA,124,9,3.6
+"Kazakhstan","KAZ","ECA",2019,34,NA,113,9,4.176606
+"Kazakhstan","KAZ","ECA",2020,38,NA,94,9,3.116287
+"Kazakhstan","KAZ","ECA",2021,37,NA,102,9,3.331854
+"Kazakhstan","KAZ","ECA",2022,36,NA,101,9,3.287702
+"Kazakhstan","KAZ","ECA",2023,39,NA,93,9,3.195811
+"Kenya","KEN","SSA",2012,NA,27,NA,8,2.2
+"Kenya","KEN","SSA",2013,NA,27,NA,8,2.7
+"Kenya","KEN","SSA",2014,25,NA,NA,8,2.98
+"Kenya","KEN","SSA",2015,25,NA,NA,8,3.02
+"Kenya","KEN","SSA",2016,26,NA,NA,9,1.72
+"Kenya","KEN","SSA",2017,28,NA,143,9,1.94
+"Kenya","KEN","SSA",2018,27,NA,144,9,1.82
+"Kenya","KEN","SSA",2019,28,NA,137,9,2.167752
+"Kenya","KEN","SSA",2020,31,NA,124,9,1.492908
+"Kenya","KEN","SSA",2021,30,NA,128,9,1.317507
+"Kenya","KEN","SSA",2022,32,NA,123,9,1.500969
+"Kenya","KEN","SSA",2023,31,NA,126,9,1.544741
+"Korea, North","PRK","AP",2012,NA,8,NA,3,3.4
+"Korea, North","PRK","AP",2013,NA,8,NA,3,3.4
+"Korea, North","PRK","AP",2014,8,NA,NA,3,3.35
+"Korea, North","PRK","AP",2015,8,NA,NA,3,3.38
+"Korea, North","PRK","AP",2016,12,NA,NA,3,1.39
+"Korea, North","PRK","AP",2017,17,NA,171,4,4.18
+"Korea, North","PRK","AP",2018,14,NA,176,4,1.39
+"Korea, North","PRK","AP",2019,17,NA,172,4,3.159824
+"Korea, North","PRK","AP",2020,18,NA,170,4,3.455656
+"Korea, North","PRK","AP",2021,16,NA,174,4,2.570172
+"Korea, North","PRK","AP",2022,17,NA,171,4,3.775732
+"Korea, North","PRK","AP",2023,17,NA,172,4,3.775732
+"Korea, South","KOR","AP",2012,NA,56,NA,10,2.4
+"Korea, South","KOR","AP",2013,NA,55,NA,10,2.4
+"Korea, South","KOR","AP",2014,55,NA,NA,9,2.64
+"Korea, South","KOR","AP",2015,54,NA,NA,9,2.29
+"Korea, South","KOR","AP",2016,53,NA,NA,9,2.33
+"Korea, South","KOR","AP",2017,54,NA,51,10,2.24
+"Korea, South","KOR","AP",2018,57,NA,45,10,2.74
+"Korea, South","KOR","AP",2019,59,NA,39,10,2.438926
+"Korea, South","KOR","AP",2020,61,NA,33,10,1.110525
+"Korea, South","KOR","AP",2021,62,NA,32,10,1.132928
+"Korea, South","KOR","AP",2022,63,NA,31,10,1.031307
+"Korea, South","KOR","AP",2023,63,NA,32,10,1.250259
+"Kosovo","KSV","ECA",2012,NA,34,NA,3,1.5
+"Kosovo","KSV","ECA",2013,NA,33,NA,3,2.3
+"Kosovo","KSV","ECA",2014,33,NA,NA,3,2.33
+"Kosovo","KSV","ECA",2015,33,NA,NA,3,2.19
+"Kosovo","KSV","ECA",2016,36,NA,NA,5,3.17
+"Kosovo","KSV","ECA",2017,39,NA,85,5,2.13
+"Kosovo","KSV","ECA",2018,37,NA,93,5,1.49
+"Kosovo","KSV","ECA",2019,36,NA,101,5,0.8146842
+"Kosovo","KSV","ECA",2020,36,NA,104,6,0.6831663
+"Kosovo","KSV","ECA",2021,39,NA,87,6,2.309925
+"Kosovo","KSV","ECA",2022,41,NA,84,6,2.576214
+"Kosovo","KSV","ECA",2023,41,NA,83,6,2.362685
+"Kuwait","KWT","MENA",2012,NA,44,NA,5,3.9
+"Kuwait","KWT","MENA",2013,NA,43,NA,5,3.9
+"Kuwait","KWT","MENA",2014,44,NA,NA,5,5.24
+"Kuwait","KWT","MENA",2015,49,NA,NA,5,4.51
+"Kuwait","KWT","MENA",2016,41,NA,NA,5,2.67
+"Kuwait","KWT","MENA",2017,39,NA,85,6,2.47
+"Kuwait","KWT","MENA",2018,41,NA,78,6,3.47
+"Kuwait","KWT","MENA",2019,40,NA,85,6,1.879429
+"Kuwait","KWT","MENA",2020,42,NA,78,6,1.88292
+"Kuwait","KWT","MENA",2021,43,NA,73,6,2.000104
+"Kuwait","KWT","MENA",2022,42,NA,77,6,1.73636
+"Kuwait","KWT","MENA",2023,46,NA,63,8,1.65889
+"Kyrgyzstan","KGZ","ECA",2012,NA,24,NA,6,1.8
+"Kyrgyzstan","KGZ","ECA",2013,NA,24,NA,6,2.3
+"Kyrgyzstan","KGZ","ECA",2014,27,NA,NA,6,2.35
+"Kyrgyzstan","KGZ","ECA",2015,28,NA,NA,6,2.29
+"Kyrgyzstan","KGZ","ECA",2016,28,NA,NA,7,2.08
+"Kyrgyzstan","KGZ","ECA",2017,29,NA,135,7,2.59
+"Kyrgyzstan","KGZ","ECA",2018,29,NA,132,7,2.37
+"Kyrgyzstan","KGZ","ECA",2019,30,NA,126,7,2.540632
+"Kyrgyzstan","KGZ","ECA",2020,31,NA,124,7,1.28063
+"Kyrgyzstan","KGZ","ECA",2021,27,NA,144,7,1.163441
+"Kyrgyzstan","KGZ","ECA",2022,27,NA,140,7,1.317177
+"Kyrgyzstan","KGZ","ECA",2023,26,NA,141,7,1.689875
+"Laos","LAO","AP",2012,NA,21,NA,3,1.3
+"Laos","LAO","AP",2013,NA,26,NA,4,5
+"Laos","LAO","AP",2014,25,NA,NA,4,3.8
+"Laos","LAO","AP",2015,25,NA,NA,4,5.31
+"Laos","LAO","AP",2016,30,NA,NA,4,6.19
+"Laos","LAO","AP",2017,29,NA,135,5,5.89
+"Laos","LAO","AP",2018,29,NA,132,5,5.7
+"Laos","LAO","AP",2019,29,NA,130,5,4.995874
+"Laos","LAO","AP",2020,29,NA,134,5,3.953034
+"Laos","LAO","AP",2021,30,NA,128,5,3.212965
+"Laos","LAO","AP",2022,31,NA,126,5,3.703161
+"Laos","LAO","AP",2023,28,NA,136,4,2.440356
+"Latvia","LVA","WE/EU",2012,NA,49,NA,6,4
+"Latvia","LVA","WE/EU",2013,NA,53,NA,8,3.6
+"Latvia","LVA","WE/EU",2014,55,NA,NA,8,3.35
+"Latvia","LVA","WE/EU",2015,56,NA,NA,8,2.76
+"Latvia","LVA","WE/EU",2016,57,NA,NA,9,2.96
+"Latvia","LVA","WE/EU",2017,58,NA,40,9,3.21
+"Latvia","LVA","WE/EU",2018,58,NA,41,9,2.95
+"Latvia","LVA","WE/EU",2019,56,NA,44,9,3.526914
+"Latvia","LVA","WE/EU",2020,57,NA,42,9,1.915961
+"Latvia","LVA","WE/EU",2021,59,NA,36,10,1.324134
+"Latvia","LVA","WE/EU",2022,59,NA,39,10,1.361589
+"Latvia","LVA","WE/EU",2023,60,NA,36,9,1.757172
+"Lebanon","LBN","MENA",2012,NA,30,NA,6,2.3
+"Lebanon","LBN","MENA",2013,NA,28,NA,6,3.3
+"Lebanon","LBN","MENA",2014,27,NA,NA,6,3.37
+"Lebanon","LBN","MENA",2015,28,NA,NA,6,3.22
+"Lebanon","LBN","MENA",2016,28,NA,NA,7,2.5
+"Lebanon","LBN","MENA",2017,28,NA,143,7,2.11
+"Lebanon","LBN","MENA",2018,28,NA,138,7,2.28
+"Lebanon","LBN","MENA",2019,28,NA,137,7,2.271487
+"Lebanon","LBN","MENA",2020,25,NA,149,7,1.153654
+"Lebanon","LBN","MENA",2021,24,NA,154,7,0.7673878
+"Lebanon","LBN","MENA",2022,24,NA,150,7,0.8218693
+"Lebanon","LBN","MENA",2023,24,NA,149,6,1.12472
+"Lesotho","LSO","SSA",2012,NA,45,NA,5,4.6
+"Lesotho","LSO","SSA",2013,NA,49,NA,5,3.6
+"Lesotho","LSO","SSA",2014,49,NA,NA,5,3.55
+"Lesotho","LSO","SSA",2015,44,NA,NA,5,4.99
+"Lesotho","LSO","SSA",2016,39,NA,NA,5,6.15
+"Lesotho","LSO","SSA",2017,42,NA,74,6,4.08
+"Lesotho","LSO","SSA",2018,41,NA,78,6,3.67
+"Lesotho","LSO","SSA",2019,40,NA,85,6,3.949422
+"Lesotho","LSO","SSA",2020,41,NA,83,6,3.237793
+"Lesotho","LSO","SSA",2021,38,NA,96,6,4.002569
+"Lesotho","LSO","SSA",2022,37,NA,99,6,3.874885
+"Lesotho","LSO","SSA",2023,39,NA,93,5,4.650449
+"Liberia","LBR","SSA",2012,NA,41,NA,7,3.9
+"Liberia","LBR","SSA",2013,NA,38,NA,7,3.3
+"Liberia","LBR","SSA",2014,37,NA,NA,6,3.09
+"Liberia","LBR","SSA",2015,37,NA,NA,7,4.22
+"Liberia","LBR","SSA",2016,37,NA,NA,7,3.43
+"Liberia","LBR","SSA",2017,31,NA,122,8,3.24
+"Liberia","LBR","SSA",2018,32,NA,120,8,3.31
+"Liberia","LBR","SSA",2019,28,NA,137,7,2.667331
+"Liberia","LBR","SSA",2020,28,NA,137,7,2.011254
+"Liberia","LBR","SSA",2021,29,NA,136,8,1.697025
+"Liberia","LBR","SSA",2022,26,NA,142,7,1.715974
+"Liberia","LBR","SSA",2023,25,NA,145,7,1.639768
+"Libya","LBY","MENA",2012,NA,21,NA,6,4
+"Libya","LBY","MENA",2013,NA,15,NA,6,3.3
+"Libya","LBY","MENA",2014,18,NA,NA,5,2.81
+"Libya","LBY","MENA",2015,16,NA,NA,5,3.18
+"Libya","LBY","MENA",2016,14,NA,NA,4,2
+"Libya","LBY","MENA",2017,17,NA,171,5,3.05
+"Libya","LBY","MENA",2018,17,NA,170,5,2.57
+"Libya","LBY","MENA",2019,18,NA,168,5,2.241052
+"Libya","LBY","MENA",2020,17,NA,173,5,1.71509
+"Libya","LBY","MENA",2021,17,NA,172,5,1.71509
+"Libya","LBY","MENA",2022,17,NA,171,5,1.594005
+"Libya","LBY","MENA",2023,18,NA,170,5,1.829811
+"Lithuania","LTU","WE/EU",2012,NA,54,NA,7,5.3
+"Lithuania","LTU","WE/EU",2013,NA,57,NA,8,3.8
+"Lithuania","LTU","WE/EU",2014,58,NA,NA,8,3.85
+"Lithuania","LTU","WE/EU",2015,59,NA,NA,8,1.92
+"Lithuania","LTU","WE/EU",2016,59,NA,NA,9,1.36
+"Lithuania","LTU","WE/EU",2017,59,NA,38,9,2.21
+"Lithuania","LTU","WE/EU",2018,59,NA,38,9,2.3
+"Lithuania","LTU","WE/EU",2019,60,NA,35,9,2.319473
+"Lithuania","LTU","WE/EU",2020,60,NA,35,9,1.340773
+"Lithuania","LTU","WE/EU",2021,61,NA,34,10,1.181192
+"Lithuania","LTU","WE/EU",2022,62,NA,33,10,1.14065
+"Lithuania","LTU","WE/EU",2023,61,NA,34,10,1.249941
+"Luxembourg","LUX","WE/EU",2012,NA,80,NA,6,2.8
+"Luxembourg","LUX","WE/EU",2013,NA,80,NA,6,2.9
+"Luxembourg","LUX","WE/EU",2014,82,NA,NA,6,2.78
+"Luxembourg","LUX","WE/EU",2015,85,NA,NA,5,1.6
+"Luxembourg","LUX","WE/EU",2016,81,NA,NA,6,1.96
+"Luxembourg","LUX","WE/EU",2017,82,NA,8,6,2.08
+"Luxembourg","LUX","WE/EU",2018,81,NA,9,7,2.32
+"Luxembourg","LUX","WE/EU",2019,80,NA,9,7,1.954564
+"Luxembourg","LUX","WE/EU",2020,80,NA,9,7,1.503167
+"Luxembourg","LUX","WE/EU",2021,81,NA,9,8,0.9624774
+"Luxembourg","LUX","WE/EU",2022,77,NA,10,8,1.083765
+"Luxembourg","LUX","WE/EU",2023,78,NA,9,8,1.060454
+"Madagascar","MDG","SSA",2012,NA,32,NA,8,3.2
+"Madagascar","MDG","SSA",2013,NA,28,NA,8,1.9
+"Madagascar","MDG","SSA",2014,28,NA,NA,8,3.38
+"Madagascar","MDG","SSA",2015,28,NA,NA,7,2.99
+"Madagascar","MDG","SSA",2016,26,NA,NA,7,2.88
+"Madagascar","MDG","SSA",2017,24,NA,155,8,2.72
+"Madagascar","MDG","SSA",2018,25,NA,152,7,2.64
+"Madagascar","MDG","SSA",2019,24,NA,158,8,2.475335
+"Madagascar","MDG","SSA",2020,25,NA,149,8,1.511308
+"Madagascar","MDG","SSA",2021,26,NA,147,7,1.689165
+"Madagascar","MDG","SSA",2022,26,NA,142,7,1.673997
+"Madagascar","MDG","SSA",2023,25,NA,145,7,1.525142
+"Malawi","MWI","SSA",2012,NA,37,NA,8,1.5
+"Malawi","MWI","SSA",2013,NA,37,NA,8,1.7
+"Malawi","MWI","SSA",2014,33,NA,NA,8,3.03
+"Malawi","MWI","SSA",2015,31,NA,NA,8,2.41
+"Malawi","MWI","SSA",2016,31,NA,NA,9,2.11
+"Malawi","MWI","SSA",2017,31,NA,122,9,1.85
+"Malawi","MWI","SSA",2018,32,NA,120,9,2.61
+"Malawi","MWI","SSA",2019,31,NA,123,9,1.779217
+"Malawi","MWI","SSA",2020,30,NA,129,9,1.156581
+"Malawi","MWI","SSA",2021,35,NA,110,9,1.694355
+"Malawi","MWI","SSA",2022,34,NA,110,9,1.707906
+"Malawi","MWI","SSA",2023,34,NA,115,9,1.421499
+"Malaysia","MYS","AP",2012,NA,49,NA,9,3.4
+"Malaysia","MYS","AP",2013,NA,50,NA,9,3.4
+"Malaysia","MYS","AP",2014,52,NA,NA,8,2.88
+"Malaysia","MYS","AP",2015,50,NA,NA,8,3
+"Malaysia","MYS","AP",2016,49,NA,NA,8,2.46
+"Malaysia","MYS","AP",2017,47,NA,62,9,2.67
+"Malaysia","MYS","AP",2018,47,NA,61,9,2.86
+"Malaysia","MYS","AP",2019,53,NA,51,9,2.292706
+"Malaysia","MYS","AP",2020,51,NA,57,9,1.617509
+"Malaysia","MYS","AP",2021,48,NA,62,9,1.319835
+"Malaysia","MYS","AP",2022,47,NA,61,9,1.366884
+"Malaysia","MYS","AP",2023,50,NA,57,9,0.9731172
+"Maldives","MDV","AP",2012,NA,NA,NA,NA,NA
+"Maldives","MDV","AP",2013,NA,NA,NA,NA,NA
+"Maldives","MDV","AP",2014,NA,NA,NA,NA,NA
+"Maldives","MDV","AP",2015,NA,NA,NA,NA,NA
+"Maldives","MDV","AP",2016,36,NA,NA,3,5.66
+"Maldives","MDV","AP",2017,33,NA,112,3,1.71
+"Maldives","MDV","AP",2018,31,NA,124,3,2.24
+"Maldives","MDV","AP",2019,29,NA,130,3,2.569968
+"Maldives","MDV","AP",2020,43,NA,75,3,7.69273
+"Maldives","MDV","AP",2021,40,NA,85,3,4.39211
+"Maldives","MDV","AP",2022,40,NA,85,3,4.832095
+"Maldives","MDV","AP",2023,39,NA,93,3,4.17214
+"Mali","MLI","SSA",2012,NA,34,NA,6,4
+"Mali","MLI","SSA",2013,NA,28,NA,6,3.3
+"Mali","MLI","SSA",2014,32,NA,NA,6,3.37
+"Mali","MLI","SSA",2015,35,NA,NA,6,1.89
+"Mali","MLI","SSA",2016,32,NA,NA,6,1.75
+"Mali","MLI","SSA",2017,31,NA,122,7,2.08
+"Mali","MLI","SSA",2018,32,NA,120,7,1.38
+"Mali","MLI","SSA",2019,29,NA,130,8,2.620483
+"Mali","MLI","SSA",2020,30,NA,129,8,1.49772
+"Mali","MLI","SSA",2021,29,NA,136,8,1.463211
+"Mali","MLI","SSA",2022,28,NA,137,8,1.628118
+"Mali","MLI","SSA",2023,28,NA,136,8,1.491682
+"Malta","MLT","WE/EU",2012,NA,57,NA,4,2.4
+"Malta","MLT","WE/EU",2013,NA,56,NA,5,2.4
+"Malta","MLT","WE/EU",2014,55,NA,NA,5,2.63
+"Malta","MLT","WE/EU",2015,60,NA,NA,4,1.32
+"Malta","MLT","WE/EU",2016,55,NA,NA,5,1.39
+"Malta","MLT","WE/EU",2017,56,NA,46,5,1.18
+"Malta","MLT","WE/EU",2018,54,NA,51,5,1.39
+"Malta","MLT","WE/EU",2019,54,NA,50,6,1.551156
+"Malta","MLT","WE/EU",2020,53,NA,52,6,1.422959
+"Malta","MLT","WE/EU",2021,54,NA,49,7,1.731108
+"Malta","MLT","WE/EU",2022,51,NA,54,7,2.521589
+"Malta","MLT","WE/EU",2023,51,NA,55,7,2.420942
+"Mauritania","MRT","SSA",2012,NA,31,NA,5,3.5
+"Mauritania","MRT","SSA",2013,NA,30,NA,5,4.1
+"Mauritania","MRT","SSA",2014,30,NA,NA,5,4.23
+"Mauritania","MRT","SSA",2015,31,NA,NA,5,5.07
+"Mauritania","MRT","SSA",2016,27,NA,NA,5,3.62
+"Mauritania","MRT","SSA",2017,28,NA,143,6,2.41
+"Mauritania","MRT","SSA",2018,27,NA,144,6,2.95
+"Mauritania","MRT","SSA",2019,28,NA,137,6,2.729102
+"Mauritania","MRT","SSA",2020,29,NA,134,6,1.603382
+"Mauritania","MRT","SSA",2021,28,NA,140,7,1.850721
+"Mauritania","MRT","SSA",2022,30,NA,130,6,1.680436
+"Mauritania","MRT","SSA",2023,30,NA,130,6,1.653217
+"Mauritius","MUS","SSA",2012,NA,57,NA,5,3.5
+"Mauritius","MUS","SSA",2013,NA,52,NA,5,1.1
+"Mauritius","MUS","SSA",2014,54,NA,NA,4,2.39
+"Mauritius","MUS","SSA",2015,53,NA,NA,4,1.49
+"Mauritius","MUS","SSA",2016,54,NA,NA,4,2.14
+"Mauritius","MUS","SSA",2017,50,NA,54,5,4.41
+"Mauritius","MUS","SSA",2018,51,NA,56,5,3.83
+"Mauritius","MUS","SSA",2019,52,NA,56,6,3.12463
+"Mauritius","MUS","SSA",2020,53,NA,52,6,1.535955
+"Mauritius","MUS","SSA",2021,54,NA,49,6,1.597818
+"Mauritius","MUS","SSA",2022,50,NA,57,6,1.783055
+"Mauritius","MUS","SSA",2023,51,NA,55,6,2.037093
+"Mexico","MEX","AME",2012,NA,34,NA,9,1.7
+"Mexico","MEX","AME",2013,NA,34,NA,9,1.8
+"Mexico","MEX","AME",2014,35,NA,NA,8,1.66
+"Mexico","MEX","AME",2015,31,NA,NA,8,3.02
+"Mexico","MEX","AME",2016,30,NA,NA,8,1.56
+"Mexico","MEX","AME",2017,29,NA,135,9,1.69
+"Mexico","MEX","AME",2018,28,NA,138,9,1.83
+"Mexico","MEX","AME",2019,29,NA,130,9,1.725735
+"Mexico","MEX","AME",2020,31,NA,124,9,1.381333
+"Mexico","MEX","AME",2021,31,NA,124,9,1.429597
+"Mexico","MEX","AME",2022,31,NA,126,9,1.623537
+"Mexico","MEX","AME",2023,31,NA,126,9,1.560548
+"Moldova","MDA","ECA",2012,NA,36,NA,8,2.6
+"Moldova","MDA","ECA",2013,NA,35,NA,8,2.8
+"Moldova","MDA","ECA",2014,35,NA,NA,8,2.7
+"Moldova","MDA","ECA",2015,33,NA,NA,8,2.88
+"Moldova","MDA","ECA",2016,30,NA,NA,9,2.18
+"Moldova","MDA","ECA",2017,31,NA,122,9,1.54
+"Moldova","MDA","ECA",2018,33,NA,117,9,2.13
+"Moldova","MDA","ECA",2019,32,NA,120,9,2.395228
+"Moldova","MDA","ECA",2020,34,NA,115,9,1.237908
+"Moldova","MDA","ECA",2021,36,NA,105,7,1.34492
+"Moldova","MDA","ECA",2022,39,NA,91,8,1.646075
+"Moldova","MDA","ECA",2023,42,NA,76,7,2.102524
+"Mongolia","MNG","AP",2012,NA,36,NA,7,2.6
+"Mongolia","MNG","AP",2013,NA,38,NA,7,2.2
+"Mongolia","MNG","AP",2014,39,NA,NA,7,2.13
+"Mongolia","MNG","AP",2015,39,NA,NA,8,1.76
+"Mongolia","MNG","AP",2016,38,NA,NA,9,1.7
+"Mongolia","MNG","AP",2017,36,NA,103,9,1.4
+"Mongolia","MNG","AP",2018,37,NA,93,9,1.94
+"Mongolia","MNG","AP",2019,35,NA,106,9,1.887561
+"Mongolia","MNG","AP",2020,35,NA,111,9,0.7091675
+"Mongolia","MNG","AP",2021,35,NA,110,8,0.5707226
+"Mongolia","MNG","AP",2022,33,NA,116,8,0.8162061
+"Mongolia","MNG","AP",2023,33,NA,121,7,1.052163
+"Montenegro","MNE","ECA",2012,NA,41,NA,4,4.5
+"Montenegro","MNE","ECA",2013,NA,44,NA,4,2.2
+"Montenegro","MNE","ECA",2014,42,NA,NA,4,4.25
+"Montenegro","MNE","ECA",2015,44,NA,NA,4,4.87
+"Montenegro","MNE","ECA",2016,45,NA,NA,4,2.89
+"Montenegro","MNE","ECA",2017,46,NA,64,5,2.45
+"Montenegro","MNE","ECA",2018,45,NA,67,5,4.43
+"Montenegro","MNE","ECA",2019,45,NA,66,5,4.836292
+"Montenegro","MNE","ECA",2020,45,NA,67,5,3.248579
+"Montenegro","MNE","ECA",2021,46,NA,64,5,2.130811
+"Montenegro","MNE","ECA",2022,45,NA,65,5,1.932798
+"Montenegro","MNE","ECA",2023,46,NA,63,5,2.545276
+"Morocco","MAR","MENA",2012,NA,37,NA,8,3.2
+"Morocco","MAR","MENA",2013,NA,37,NA,8,2.9
+"Morocco","MAR","MENA",2014,39,NA,NA,6,3.57
+"Morocco","MAR","MENA",2015,36,NA,NA,6,3.85
+"Morocco","MAR","MENA",2016,37,NA,NA,7,1.74
+"Morocco","MAR","MENA",2017,40,NA,81,7,2.6
+"Morocco","MAR","MENA",2018,43,NA,73,7,3.68
+"Morocco","MAR","MENA",2019,41,NA,80,7,3.150518
+"Morocco","MAR","MENA",2020,40,NA,86,7,2.215573
+"Morocco","MAR","MENA",2021,39,NA,87,6,2.474511
+"Morocco","MAR","MENA",2022,38,NA,94,7,1.79714
+"Morocco","MAR","MENA",2023,38,NA,97,7,1.703866
+"Mozambique","MOZ","SSA",2012,NA,31,NA,7,1.6
+"Mozambique","MOZ","SSA",2013,NA,30,NA,7,2
+"Mozambique","MOZ","SSA",2014,31,NA,NA,7,1.89
+"Mozambique","MOZ","SSA",2015,31,NA,NA,7,1.97
+"Mozambique","MOZ","SSA",2016,27,NA,NA,8,2.57
+"Mozambique","MOZ","SSA",2017,25,NA,153,8,2.87
+"Mozambique","MOZ","SSA",2018,23,NA,158,8,2.64
+"Mozambique","MOZ","SSA",2019,26,NA,146,9,2.977371
+"Mozambique","MOZ","SSA",2020,25,NA,149,9,1.597154
+"Mozambique","MOZ","SSA",2021,26,NA,147,8,1.98776
+"Mozambique","MOZ","SSA",2022,26,NA,142,8,1.893434
+"Mozambique","MOZ","SSA",2023,25,NA,145,8,1.905192
+"Myanmar","MMR","AP",2012,NA,15,NA,4,3.7
+"Myanmar","MMR","AP",2013,NA,21,NA,6,3.9
+"Myanmar","MMR","AP",2014,21,NA,NA,7,2.87
+"Myanmar","MMR","AP",2015,22,NA,NA,7,2.82
+"Myanmar","MMR","AP",2016,28,NA,NA,8,3.69
+"Myanmar","MMR","AP",2017,30,NA,130,7,3.91
+"Myanmar","MMR","AP",2018,29,NA,132,7,3.94
+"Myanmar","MMR","AP",2019,29,NA,130,7,4.212792
+"Myanmar","MMR","AP",2020,28,NA,137,7,2.650177
+"Myanmar","MMR","AP",2021,28,NA,140,7,2.777369
+"Myanmar","MMR","AP",2022,23,NA,157,7,1.897972
+"Myanmar","MMR","AP",2023,20,NA,162,7,2.293598
+"Namibia","NAM","SSA",2012,NA,48,NA,6,3.5
+"Namibia","NAM","SSA",2013,NA,48,NA,6,3.4
+"Namibia","NAM","SSA",2014,49,NA,NA,5,4
+"Namibia","NAM","SSA",2015,53,NA,NA,5,2.75
+"Namibia","NAM","SSA",2016,52,NA,NA,5,2.03
+"Namibia","NAM","SSA",2017,51,NA,53,6,3.22
+"Namibia","NAM","SSA",2018,53,NA,52,6,3.72
+"Namibia","NAM","SSA",2019,52,NA,56,7,3.132607
+"Namibia","NAM","SSA",2020,51,NA,57,7,1.883827
+"Namibia","NAM","SSA",2021,49,NA,58,7,2.614393
+"Namibia","NAM","SSA",2022,49,NA,59,7,2.484917
+"Namibia","NAM","SSA",2023,49,NA,59,6,2.841784
+"Nepal","NPL","AP",2012,NA,27,NA,5,2.4
+"Nepal","NPL","AP",2013,NA,31,NA,5,1.4
+"Nepal","NPL","AP",2014,29,NA,NA,5,2.2
+"Nepal","NPL","AP",2015,27,NA,NA,5,2.73
+"Nepal","NPL","AP",2016,29,NA,NA,6,2.33
+"Nepal","NPL","AP",2017,31,NA,122,6,2
+"Nepal","NPL","AP",2018,31,NA,124,6,1.85
+"Nepal","NPL","AP",2019,34,NA,113,6,1.759387
+"Nepal","NPL","AP",2020,33,NA,117,6,1.350671
+"Nepal","NPL","AP",2021,33,NA,117,6,0.5357912
+"Nepal","NPL","AP",2022,34,NA,110,6,0.9336739
+"Nepal","NPL","AP",2023,35,NA,108,6,0.7388446
+"Netherlands","NLD","WE/EU",2012,NA,84,NA,7,2
+"Netherlands","NLD","WE/EU",2013,NA,83,NA,7,2
+"Netherlands","NLD","WE/EU",2014,83,NA,NA,7,1.97
+"Netherlands","NLD","WE/EU",2015,84,NA,NA,7,1.98
+"Netherlands","NLD","WE/EU",2016,83,NA,NA,7,2.32
+"Netherlands","NLD","WE/EU",2017,82,NA,8,8,2.23
+"Netherlands","NLD","WE/EU",2018,82,NA,8,8,2.3
+"Netherlands","NLD","WE/EU",2019,82,NA,8,8,2.247029
+"Netherlands","NLD","WE/EU",2020,82,NA,8,8,1.438214
+"Netherlands","NLD","WE/EU",2021,82,NA,8,8,1.361967
+"Netherlands","NLD","WE/EU",2022,80,NA,8,8,2.009142
+"Netherlands","NLD","WE/EU",2023,79,NA,8,8,2.100774
+"New Zealand","NZL","AP",2012,NA,90,NA,7,2.2
+"New Zealand","NZL","AP",2013,NA,91,NA,7,2.3
+"New Zealand","NZL","AP",2014,91,NA,NA,7,2.28
+"New Zealand","NZL","AP",2015,91,NA,NA,7,2.32
+"New Zealand","NZL","AP",2016,90,NA,NA,7,2.56
+"New Zealand","NZL","AP",2017,89,NA,1,8,2.4
+"New Zealand","NZL","AP",2018,87,NA,2,8,2.44
+"New Zealand","NZL","AP",2019,87,NA,1,8,2.28649
+"New Zealand","NZL","AP",2020,88,NA,1,8,1.479342
+"New Zealand","NZL","AP",2021,88,NA,1,8,1.427644
+"New Zealand","NZL","AP",2022,87,NA,2,8,1.405203
+"New Zealand","NZL","AP",2023,85,NA,3,8,1.916107
+"Nicaragua","NIC","AME",2012,NA,29,NA,7,2.1
+"Nicaragua","NIC","AME",2013,NA,28,NA,7,2.4
+"Nicaragua","NIC","AME",2014,28,NA,NA,7,2.03
+"Nicaragua","NIC","AME",2015,27,NA,NA,7,2.5
+"Nicaragua","NIC","AME",2016,26,NA,NA,7,1.98
+"Nicaragua","NIC","AME",2017,26,NA,151,8,1.29
+"Nicaragua","NIC","AME",2018,25,NA,152,8,1.13
+"Nicaragua","NIC","AME",2019,22,NA,161,7,1.162477
+"Nicaragua","NIC","AME",2020,22,NA,159,7,0.898374
+"Nicaragua","NIC","AME",2021,20,NA,164,8,0.9706379
+"Nicaragua","NIC","AME",2022,19,NA,167,8,1.040381
+"Nicaragua","NIC","AME",2023,17,NA,172,7,0.9571449
+"Niger","NER","SSA",2012,NA,33,NA,5,3.1
+"Niger","NER","SSA",2013,NA,34,NA,5,3.7
+"Niger","NER","SSA",2014,35,NA,NA,5,3.99
+"Niger","NER","SSA",2015,34,NA,NA,5,4.16
+"Niger","NER","SSA",2016,35,NA,NA,5,3.25
+"Niger","NER","SSA",2017,33,NA,112,6,3.27
+"Niger","NER","SSA",2018,34,NA,114,6,2.98
+"Niger","NER","SSA",2019,32,NA,120,7,1.715677
+"Niger","NER","SSA",2020,32,NA,123,7,1.196653
+"Niger","NER","SSA",2021,31,NA,124,7,1.353731
+"Niger","NER","SSA",2022,32,NA,123,7,1.499769
+"Niger","NER","SSA",2023,32,NA,125,7,1.504424
+"Nigeria","NGA","SSA",2012,NA,27,NA,9,2.7
+"Nigeria","NGA","SSA",2013,NA,25,NA,9,3.1
+"Nigeria","NGA","SSA",2014,27,NA,NA,8,2.82
+"Nigeria","NGA","SSA",2015,26,NA,NA,8,2.24
+"Nigeria","NGA","SSA",2016,28,NA,NA,9,1.98
+"Nigeria","NGA","SSA",2017,27,NA,148,9,1.97
+"Nigeria","NGA","SSA",2018,27,NA,144,9,2.03
+"Nigeria","NGA","SSA",2019,26,NA,146,8,1.868129
+"Nigeria","NGA","SSA",2020,25,NA,149,8,1.44864
+"Nigeria","NGA","SSA",2021,24,NA,154,8,1.567548
+"Nigeria","NGA","SSA",2022,24,NA,150,8,1.60437
+"Nigeria","NGA","SSA",2023,25,NA,145,8,1.639001
+"North Macedonia","MKD","ECA",2012,NA,43,NA,6,4.7
+"North Macedonia","MKD","ECA",2013,NA,44,NA,6,5
+"North Macedonia","MKD","ECA",2014,45,NA,NA,6,5.92
+"North Macedonia","MKD","ECA",2015,42,NA,NA,6,5.27
+"North Macedonia","MKD","ECA",2016,37,NA,NA,7,4.97
+"North Macedonia","MKD","ECA",2017,35,NA,107,6,4.49
+"North Macedonia","MKD","ECA",2018,37,NA,93,7,3.38
+"North Macedonia","MKD","ECA",2019,35,NA,106,7,3.56274
+"North Macedonia","MKD","ECA",2020,35,NA,111,7,2.44184
+"North Macedonia","MKD","ECA",2021,39,NA,87,7,1.661591
+"North Macedonia","MKD","ECA",2022,40,NA,85,7,1.954688
+"North Macedonia","MKD","ECA",2023,42,NA,76,6,2.876609
+"Norway","NOR","WE/EU",2012,NA,85,NA,7,1.6
+"Norway","NOR","WE/EU",2013,NA,86,NA,7,2.3
+"Norway","NOR","WE/EU",2014,86,NA,NA,7,2.38
+"Norway","NOR","WE/EU",2015,88,NA,NA,7,2.24
+"Norway","NOR","WE/EU",2016,85,NA,NA,7,1.85
+"Norway","NOR","WE/EU",2017,85,NA,3,8,1.83
+"Norway","NOR","WE/EU",2018,84,NA,7,8,2.14
+"Norway","NOR","WE/EU",2019,84,NA,7,7,1.646693
+"Norway","NOR","WE/EU",2020,84,NA,7,7,1.257705
+"Norway","NOR","WE/EU",2021,85,NA,4,7,1.072085
+"Norway","NOR","WE/EU",2022,84,NA,4,7,1.168785
+"Norway","NOR","WE/EU",2023,84,NA,4,7,1.380803
+"Oman","OMN","MENA",2012,NA,47,NA,5,7.6
+"Oman","OMN","MENA",2013,NA,47,NA,5,7.8
+"Oman","OMN","MENA",2014,45,NA,NA,5,6.55
+"Oman","OMN","MENA",2015,45,NA,NA,5,6.69
+"Oman","OMN","MENA",2016,45,NA,NA,5,7.07
+"Oman","OMN","MENA",2017,44,NA,68,5,7
+"Oman","OMN","MENA",2018,52,NA,53,6,9.46
+"Oman","OMN","MENA",2019,52,NA,56,6,9.778998
+"Oman","OMN","MENA",2020,54,NA,49,6,7.472544
+"Oman","OMN","MENA",2021,52,NA,56,6,7.123367
+"Oman","OMN","MENA",2022,44,NA,69,5,4.951219
+"Oman","OMN","MENA",2023,43,NA,70,5,5.321681
+"Pakistan","PAK","AP",2012,NA,27,NA,8,2.3
+"Pakistan","PAK","AP",2013,NA,28,NA,8,3
+"Pakistan","PAK","AP",2014,29,NA,NA,7,3.24
+"Pakistan","PAK","AP",2015,30,NA,NA,7,3.12
+"Pakistan","PAK","AP",2016,32,NA,NA,7,2.12
+"Pakistan","PAK","AP",2017,32,NA,117,8,2.11
+"Pakistan","PAK","AP",2018,33,NA,117,8,2.06
+"Pakistan","PAK","AP",2019,32,NA,120,8,2.461317
+"Pakistan","PAK","AP",2020,31,NA,124,8,1.798669
+"Pakistan","PAK","AP",2021,28,NA,140,8,1.86989
+"Pakistan","PAK","AP",2022,27,NA,140,7,1.916701
+"Pakistan","PAK","AP",2023,29,NA,133,8,2.091568
+"Panama","PAN","AME",2012,NA,38,NA,6,3.1
+"Panama","PAN","AME",2013,NA,35,NA,6,2.2
+"Panama","PAN","AME",2014,37,NA,NA,6,3.49
+"Panama","PAN","AME",2015,39,NA,NA,6,3.01
+"Panama","PAN","AME",2016,38,NA,NA,6,2.29
+"Panama","PAN","AME",2017,37,NA,96,7,1.79
+"Panama","PAN","AME",2018,37,NA,93,7,1.76
+"Panama","PAN","AME",2019,36,NA,101,7,1.374419
+"Panama","PAN","AME",2020,35,NA,111,7,0.7690077
+"Panama","PAN","AME",2021,36,NA,105,7,1.017901
+"Panama","PAN","AME",2022,36,NA,101,7,1.082802
+"Panama","PAN","AME",2023,35,NA,108,7,1.171405
+"Papua New Guinea","PNG","AP",2012,NA,25,NA,5,4.2
+"Papua New Guinea","PNG","AP",2013,NA,25,NA,5,4.2
+"Papua New Guinea","PNG","AP",2014,25,NA,NA,5,4.16
+"Papua New Guinea","PNG","AP",2015,25,NA,NA,5,4.22
+"Papua New Guinea","PNG","AP",2016,28,NA,NA,5,3.01
+"Papua New Guinea","PNG","AP",2017,29,NA,135,6,2.55
+"Papua New Guinea","PNG","AP",2018,28,NA,138,6,2.47
+"Papua New Guinea","PNG","AP",2019,28,NA,137,6,2.379799
+"Papua New Guinea","PNG","AP",2020,27,NA,142,6,1.61913
+"Papua New Guinea","PNG","AP",2021,31,NA,124,6,2.261734
+"Papua New Guinea","PNG","AP",2022,30,NA,130,6,2.341149
+"Papua New Guinea","PNG","AP",2023,29,NA,133,6,1.757385
+"Paraguay","PRY","AME",2012,NA,25,NA,5,2.9
+"Paraguay","PRY","AME",2013,NA,24,NA,5,3.1
+"Paraguay","PRY","AME",2014,24,NA,NA,5,2.95
+"Paraguay","PRY","AME",2015,27,NA,NA,5,2.85
+"Paraguay","PRY","AME",2016,30,NA,NA,6,2.68
+"Paraguay","PRY","AME",2017,29,NA,135,6,3.1
+"Paraguay","PRY","AME",2018,29,NA,132,6,3.05
+"Paraguay","PRY","AME",2019,28,NA,137,6,2.835402
+"Paraguay","PRY","AME",2020,28,NA,137,6,2.190555
+"Paraguay","PRY","AME",2021,30,NA,128,7,1.400964
+"Paraguay","PRY","AME",2022,28,NA,137,7,1.697594
+"Paraguay","PRY","AME",2023,28,NA,136,6,1.83682
+"Peru","PER","AME",2012,NA,38,NA,7,2.1
+"Peru","PER","AME",2013,NA,38,NA,7,2.5
+"Peru","PER","AME",2014,38,NA,NA,7,2.63
+"Peru","PER","AME",2015,36,NA,NA,7,3.05
+"Peru","PER","AME",2016,35,NA,NA,7,2.04
+"Peru","PER","AME",2017,37,NA,96,8,3.35
+"Peru","PER","AME",2018,35,NA,105,8,3.1
+"Peru","PER","AME",2019,36,NA,101,8,3.065588
+"Peru","PER","AME",2020,38,NA,94,8,1.979993
+"Peru","PER","AME",2021,36,NA,105,8,1.839955
+"Peru","PER","AME",2022,36,NA,101,8,1.434337
+"Peru","PER","AME",2023,33,NA,121,8,1.402434
+"Philippines","PHL","AP",2012,NA,34,NA,9,2.2
+"Philippines","PHL","AP",2013,NA,36,NA,9,2.5
+"Philippines","PHL","AP",2014,38,NA,NA,8,1.84
+"Philippines","PHL","AP",2015,35,NA,NA,8,1.92
+"Philippines","PHL","AP",2016,35,NA,NA,9,1.58
+"Philippines","PHL","AP",2017,34,NA,111,9,1.9
+"Philippines","PHL","AP",2018,36,NA,99,9,1.55
+"Philippines","PHL","AP",2019,34,NA,113,9,1.585877
+"Philippines","PHL","AP",2020,34,NA,115,9,0.9200366
+"Philippines","PHL","AP",2021,33,NA,117,9,0.9365137
+"Philippines","PHL","AP",2022,33,NA,116,9,0.9319923
+"Philippines","PHL","AP",2023,34,NA,115,9,1.210416
+"Poland","POL","WE/EU",2012,NA,58,NA,10,2
+"Poland","POL","WE/EU",2013,NA,60,NA,10,2.3
+"Poland","POL","WE/EU",2014,61,NA,NA,9,2.7
+"Poland","POL","WE/EU",2015,63,NA,NA,9,2.59
+"Poland","POL","WE/EU",2016,62,NA,NA,10,1.77
+"Poland","POL","WE/EU",2017,60,NA,36,10,1.36
+"Poland","POL","WE/EU",2018,60,NA,36,10,1.69
+"Poland","POL","WE/EU",2019,58,NA,41,10,1.84505
+"Poland","POL","WE/EU",2020,56,NA,45,10,1.385708
+"Poland","POL","WE/EU",2021,56,NA,42,10,1.221049
+"Poland","POL","WE/EU",2022,55,NA,45,10,1.367945
+"Poland","POL","WE/EU",2023,54,NA,47,10,1.362194
+"Portugal","PRT","WE/EU",2012,NA,63,NA,7,2.5
+"Portugal","PRT","WE/EU",2013,NA,62,NA,7,3
+"Portugal","PRT","WE/EU",2014,63,NA,NA,7,3.36
+"Portugal","PRT","WE/EU",2015,64,NA,NA,7,2.5
+"Portugal","PRT","WE/EU",2016,62,NA,NA,8,2.58
+"Portugal","PRT","WE/EU",2017,63,NA,29,8,2.56
+"Portugal","PRT","WE/EU",2018,64,NA,30,8,2.14
+"Portugal","PRT","WE/EU",2019,62,NA,30,8,2.819093
+"Portugal","PRT","WE/EU",2020,61,NA,33,8,1.727857
+"Portugal","PRT","WE/EU",2021,62,NA,32,8,1.843364
+"Portugal","PRT","WE/EU",2022,62,NA,33,8,1.632702
+"Portugal","PRT","WE/EU",2023,61,NA,34,8,1.750554
+"Qatar","QAT","MENA",2012,NA,68,NA,6,6.4
+"Qatar","QAT","MENA",2013,NA,68,NA,6,7.2
+"Qatar","QAT","MENA",2014,69,NA,NA,6,7.21
+"Qatar","QAT","MENA",2015,71,NA,NA,6,6.63
+"Qatar","QAT","MENA",2016,61,NA,NA,7,7.02
+"Qatar","QAT","MENA",2017,63,NA,29,7,7.5
+"Qatar","QAT","MENA",2018,62,NA,33,7,8.08
+"Qatar","QAT","MENA",2019,62,NA,30,7,7.997069
+"Qatar","QAT","MENA",2020,63,NA,30,7,5.34654
+"Qatar","QAT","MENA",2021,63,NA,31,7,5.010074
+"Qatar","QAT","MENA",2022,58,NA,40,6,5.082982
+"Qatar","QAT","MENA",2023,58,NA,40,6,4.896084
+"Romania","ROU","WE/EU",2012,NA,44,NA,8,3.7
+"Romania","ROU","WE/EU",2013,NA,43,NA,9,3
+"Romania","ROU","WE/EU",2014,43,NA,NA,9,3.6
+"Romania","ROU","WE/EU",2015,46,NA,NA,9,3.11
+"Romania","ROU","WE/EU",2016,48,NA,NA,10,3
+"Romania","ROU","WE/EU",2017,48,NA,59,10,3.12
+"Romania","ROU","WE/EU",2018,47,NA,61,10,3.25
+"Romania","ROU","WE/EU",2019,44,NA,70,10,2.764848
+"Romania","ROU","WE/EU",2020,44,NA,69,10,0.8922062
+"Romania","ROU","WE/EU",2021,45,NA,66,10,0.9970319
+"Romania","ROU","WE/EU",2022,46,NA,63,10,1.00798
+"Romania","ROU","WE/EU",2023,46,NA,63,10,0.9114636
+"Russia","RUS","ECA",2012,NA,28,NA,9,2.2
+"Russia","RUS","ECA",2013,NA,28,NA,9,2.3
+"Russia","RUS","ECA",2014,27,NA,NA,8,2.61
+"Russia","RUS","ECA",2015,29,NA,NA,8,2.52
+"Russia","RUS","ECA",2016,29,NA,NA,9,2.73
+"Russia","RUS","ECA",2017,29,NA,135,9,2.5
+"Russia","RUS","ECA",2018,28,NA,138,9,2.51
+"Russia","RUS","ECA",2019,28,NA,137,9,2.476439
+"Russia","RUS","ECA",2020,30,NA,129,9,1.334187
+"Russia","RUS","ECA",2021,29,NA,136,9,1.461623
+"Russia","RUS","ECA",2022,28,NA,137,8,1.729621
+"Russia","RUS","ECA",2023,26,NA,141,7,1.468127
+"Rwanda","RWA","SSA",2012,NA,53,NA,5,6.3
+"Rwanda","RWA","SSA",2013,NA,53,NA,5,5.7
+"Rwanda","RWA","SSA",2014,49,NA,NA,4,3.23
+"Rwanda","RWA","SSA",2015,54,NA,NA,5,6.42
+"Rwanda","RWA","SSA",2016,54,NA,NA,6,5.07
+"Rwanda","RWA","SSA",2017,55,NA,48,6,6
+"Rwanda","RWA","SSA",2018,56,NA,48,6,6.07
+"Rwanda","RWA","SSA",2019,53,NA,51,7,4.754766
+"Rwanda","RWA","SSA",2020,54,NA,49,7,3.39292
+"Rwanda","RWA","SSA",2021,53,NA,52,7,3.589662
+"Rwanda","RWA","SSA",2022,51,NA,54,6,2.794789
+"Rwanda","RWA","SSA",2023,53,NA,49,6,2.18984
+"Saint Lucia","LCA","AME",2012,NA,71,NA,3,0.8
+"Saint Lucia","LCA","AME",2013,NA,71,NA,3,0.8
+"Saint Lucia","LCA","AME",2014,71,NA,NA,3,0.84
+"Saint Lucia","LCA","AME",2015,NA,NA,NA,NA,NA
+"Saint Lucia","LCA","AME",2016,60,NA,NA,3,6.8
+"Saint Lucia","LCA","AME",2017,55,NA,48,3,4.27
+"Saint Lucia","LCA","AME",2018,55,NA,50,3,4.27
+"Saint Lucia","LCA","AME",2019,55,NA,48,3,4.154687
+"Saint Lucia","LCA","AME",2020,56,NA,45,3,4.166605
+"Saint Lucia","LCA","AME",2021,56,NA,42,3,4.0273
+"Saint Lucia","LCA","AME",2022,55,NA,45,3,3.700181
+"Saint Lucia","LCA","AME",2023,55,NA,45,3,3.700181
+"Saint Vincent and the Grenadines","VCT","AME",2012,NA,62,NA,3,5.6
+"Saint Vincent and the Grenadines","VCT","AME",2013,NA,62,NA,3,5.6
+"Saint Vincent and the Grenadines","VCT","AME",2014,62,NA,NA,3,5.59
+"Saint Vincent and the Grenadines","VCT","AME",2015,NA,NA,NA,NA,NA
+"Saint Vincent and the Grenadines","VCT","AME",2016,60,NA,NA,3,1.66
+"Saint Vincent and the Grenadines","VCT","AME",2017,58,NA,40,3,3.39
+"Saint Vincent and the Grenadines","VCT","AME",2018,58,NA,41,3,3.39
+"Saint Vincent and the Grenadines","VCT","AME",2019,59,NA,39,3,4.14181
+"Saint Vincent and the Grenadines","VCT","AME",2020,59,NA,40,3,4.019743
+"Saint Vincent and the Grenadines","VCT","AME",2021,59,NA,36,3,3.547121
+"Saint Vincent and the Grenadines","VCT","AME",2022,60,NA,35,3,4.509137
+"Saint Vincent and the Grenadines","VCT","AME",2023,60,NA,36,3,4.2627
+"Sao Tome and Principe","STP","SSA",2012,NA,42,NA,3,5
+"Sao Tome and Principe","STP","SSA",2013,NA,42,NA,3,5
+"Sao Tome and Principe","STP","SSA",2014,42,NA,NA,3,5.05
+"Sao Tome and Principe","STP","SSA",2015,42,NA,NA,3,5
+"Sao Tome and Principe","STP","SSA",2016,46,NA,NA,3,0.93
+"Sao Tome and Principe","STP","SSA",2017,46,NA,64,4,5.21
+"Sao Tome and Principe","STP","SSA",2018,46,NA,64,4,5.05
+"Sao Tome and Principe","STP","SSA",2019,46,NA,64,4,5.363743
+"Sao Tome and Principe","STP","SSA",2020,47,NA,63,4,5.058542
+"Sao Tome and Principe","STP","SSA",2021,45,NA,66,4,4.820227
+"Sao Tome and Principe","STP","SSA",2022,45,NA,65,4,4.820227
+"Sao Tome and Principe","STP","SSA",2023,45,NA,67,4,4.820227
+"Saudi Arabia","SAU","MENA",2012,NA,44,NA,5,6.4
+"Saudi Arabia","SAU","MENA",2013,NA,46,NA,5,6.7
+"Saudi Arabia","SAU","MENA",2014,49,NA,NA,5,6.69
+"Saudi Arabia","SAU","MENA",2015,52,NA,NA,5,7.03
+"Saudi Arabia","SAU","MENA",2016,46,NA,NA,5,7.54
+"Saudi Arabia","SAU","MENA",2017,49,NA,57,7,6.14
+"Saudi Arabia","SAU","MENA",2018,49,NA,58,7,6.34
+"Saudi Arabia","SAU","MENA",2019,53,NA,51,7,7.561369
+"Saudi Arabia","SAU","MENA",2020,53,NA,52,7,5.361357
+"Saudi Arabia","SAU","MENA",2021,53,NA,52,7,4.238444
+"Saudi Arabia","SAU","MENA",2022,51,NA,54,6,4.643765
+"Saudi Arabia","SAU","MENA",2023,52,NA,53,6,5.282126
+"Senegal","SEN","SSA",2012,NA,36,NA,9,1.8
+"Senegal","SEN","SSA",2013,NA,41,NA,9,1.5
+"Senegal","SEN","SSA",2014,43,NA,NA,8,2.28
+"Senegal","SEN","SSA",2015,44,NA,NA,8,2.61
+"Senegal","SEN","SSA",2016,45,NA,NA,8,2.63
+"Senegal","SEN","SSA",2017,45,NA,66,9,2.52
+"Senegal","SEN","SSA",2018,45,NA,67,9,2.51
+"Senegal","SEN","SSA",2019,45,NA,66,9,2.063146
+"Senegal","SEN","SSA",2020,45,NA,67,9,1.328981
+"Senegal","SEN","SSA",2021,43,NA,73,9,1.352063
+"Senegal","SEN","SSA",2022,43,NA,72,9,1.395357
+"Senegal","SEN","SSA",2023,43,NA,70,9,1.346635
+"Serbia","SRB","ECA",2012,NA,39,NA,7,2.6
+"Serbia","SRB","ECA",2013,NA,42,NA,7,3.4
+"Serbia","SRB","ECA",2014,41,NA,NA,7,2.92
+"Serbia","SRB","ECA",2015,40,NA,NA,7,3.9
+"Serbia","SRB","ECA",2016,42,NA,NA,7,3.69
+"Serbia","SRB","ECA",2017,41,NA,77,8,2.8
+"Serbia","SRB","ECA",2018,39,NA,87,8,2.89
+"Serbia","SRB","ECA",2019,39,NA,91,8,2.484553
+"Serbia","SRB","ECA",2020,38,NA,94,8,1.659292
+"Serbia","SRB","ECA",2021,38,NA,96,8,1.424244
+"Serbia","SRB","ECA",2022,36,NA,101,8,1.33137
+"Serbia","SRB","ECA",2023,36,NA,104,8,1.259137
+"Seychelles","SYC","SSA",2012,NA,52,NA,4,8
+"Seychelles","SYC","SSA",2013,NA,54,NA,4,8.2
+"Seychelles","SYC","SSA",2014,55,NA,NA,3,8.62
+"Seychelles","SYC","SSA",2015,55,NA,NA,3,8.5
+"Seychelles","SYC","SSA",2016,NA,NA,NA,NA,NA
+"Seychelles","SYC","SSA",2017,60,NA,36,4,8.32
+"Seychelles","SYC","SSA",2018,66,NA,28,4,3.08
+"Seychelles","SYC","SSA",2019,66,NA,27,4,3.396858
+"Seychelles","SYC","SSA",2020,66,NA,27,4,2.974329
+"Seychelles","SYC","SSA",2021,70,NA,23,3,1.343867
+"Seychelles","SYC","SSA",2022,70,NA,23,3,1.77507
+"Seychelles","SYC","SSA",2023,71,NA,20,3,0.3737209
+"Sierra Leone","SLE","SSA",2012,NA,31,NA,8,1.9
+"Sierra Leone","SLE","SSA",2013,NA,30,NA,8,2.4
+"Sierra Leone","SLE","SSA",2014,31,NA,NA,8,2.3
+"Sierra Leone","SLE","SSA",2015,29,NA,NA,8,3.44
+"Sierra Leone","SLE","SSA",2016,30,NA,NA,8,2.94
+"Sierra Leone","SLE","SSA",2017,30,NA,130,9,1.95
+"Sierra Leone","SLE","SSA",2018,30,NA,129,9,2.17
+"Sierra Leone","SLE","SSA",2019,33,NA,119,8,3.465013
+"Sierra Leone","SLE","SSA",2020,33,NA,117,8,2.420917
+"Sierra Leone","SLE","SSA",2021,34,NA,115,9,1.835758
+"Sierra Leone","SLE","SSA",2022,34,NA,110,9,1.725161
+"Sierra Leone","SLE","SSA",2023,35,NA,108,8,2.136913
+"Singapore","SGP","AP",2012,NA,87,NA,9,2.1
+"Singapore","SGP","AP",2013,NA,86,NA,9,2.3
+"Singapore","SGP","AP",2014,84,NA,NA,8,1.75
+"Singapore","SGP","AP",2015,85,NA,NA,8,2.02
+"Singapore","SGP","AP",2016,84,NA,NA,8,2.35
+"Singapore","SGP","AP",2017,84,NA,6,9,2.26
+"Singapore","SGP","AP",2018,85,NA,3,9,1.98
+"Singapore","SGP","AP",2019,85,NA,4,9,2.0484
+"Singapore","SGP","AP",2020,85,NA,3,9,1.203239
+"Singapore","SGP","AP",2021,85,NA,4,9,1.159654
+"Singapore","SGP","AP",2022,83,NA,5,8,1.298433
+"Singapore","SGP","AP",2023,83,NA,5,9,1.145734
+"Slovakia","SVK","WE/EU",2012,NA,46,NA,8,4.3
+"Slovakia","SVK","WE/EU",2013,NA,47,NA,8,4.7
+"Slovakia","SVK","WE/EU",2014,50,NA,NA,8,4.07
+"Slovakia","SVK","WE/EU",2015,51,NA,NA,8,3.63
+"Slovakia","SVK","WE/EU",2016,51,NA,NA,8,3.09
+"Slovakia","SVK","WE/EU",2017,50,NA,54,9,3.32
+"Slovakia","SVK","WE/EU",2018,50,NA,57,9,4.11
+"Slovakia","SVK","WE/EU",2019,50,NA,59,9,4.570875
+"Slovakia","SVK","WE/EU",2020,49,NA,60,9,2.691657
+"Slovakia","SVK","WE/EU",2021,52,NA,56,10,2.013479
+"Slovakia","SVK","WE/EU",2022,53,NA,49,10,1.718302
+"Slovakia","SVK","WE/EU",2023,54,NA,47,9,1.665892
+"Slovenia","SVN","WE/EU",2012,NA,61,NA,8,3.9
+"Slovenia","SVN","WE/EU",2013,NA,57,NA,9,3.6
+"Slovenia","SVN","WE/EU",2014,58,NA,NA,9,3.03
+"Slovenia","SVN","WE/EU",2015,60,NA,NA,9,2.93
+"Slovenia","SVN","WE/EU",2016,61,NA,NA,10,2.44
+"Slovenia","SVN","WE/EU",2017,61,NA,34,10,2.78
+"Slovenia","SVN","WE/EU",2018,60,NA,36,10,2.37
+"Slovenia","SVN","WE/EU",2019,60,NA,35,10,2.283508
+"Slovenia","SVN","WE/EU",2020,60,NA,35,10,1.125235
+"Slovenia","SVN","WE/EU",2021,57,NA,41,10,1.036832
+"Slovenia","SVN","WE/EU",2022,56,NA,41,10,0.9637534
+"Slovenia","SVN","WE/EU",2023,56,NA,42,10,1.040544
+"Solomon Islands","SLB","AP",2012,NA,NA,NA,NA,NA
+"Solomon Islands","SLB","AP",2013,NA,NA,NA,NA,NA
+"Solomon Islands","SLB","AP",2014,NA,NA,NA,NA,NA
+"Solomon Islands","SLB","AP",2015,NA,NA,NA,NA,NA
+"Solomon Islands","SLB","AP",2016,42,NA,NA,3,3.34
+"Solomon Islands","SLB","AP",2017,39,NA,85,3,3.71
+"Solomon Islands","SLB","AP",2018,44,NA,70,3,7.38
+"Solomon Islands","SLB","AP",2019,42,NA,77,3,8.689651
+"Solomon Islands","SLB","AP",2020,42,NA,78,3,7.800267
+"Solomon Islands","SLB","AP",2021,43,NA,73,3,7.313673
+"Solomon Islands","SLB","AP",2022,42,NA,77,3,7.67204
+"Solomon Islands","SLB","AP",2023,43,NA,70,3,7.428528
+"Somalia","SOM","SSA",2012,NA,8,NA,4,2.3
+"Somalia","SOM","SSA",2013,NA,8,NA,4,1.9
+"Somalia","SOM","SSA",2014,8,NA,NA,4,2.34
+"Somalia","SOM","SSA",2015,8,NA,NA,4,2.32
+"Somalia","SOM","SSA",2016,10,NA,NA,5,2.98
+"Somalia","SOM","SSA",2017,9,NA,180,5,2.26
+"Somalia","SOM","SSA",2018,10,NA,180,6,3.08
+"Somalia","SOM","SSA",2019,9,NA,180,5,1.740826
+"Somalia","SOM","SSA",2020,12,NA,179,6,2.292273
+"Somalia","SOM","SSA",2021,13,NA,178,6,1.891675
+"Somalia","SOM","SSA",2022,12,NA,180,6,1.738225
+"Somalia","SOM","SSA",2023,11,NA,180,6,2.077071
+"South Africa","ZAF","SSA",2012,NA,43,NA,9,2.5
+"South Africa","ZAF","SSA",2013,NA,42,NA,9,2.8
+"South Africa","ZAF","SSA",2014,44,NA,NA,7,2.41
+"South Africa","ZAF","SSA",2015,44,NA,NA,7,2.61
+"South Africa","ZAF","SSA",2016,45,NA,NA,7,2.55
+"South Africa","ZAF","SSA",2017,43,NA,71,8,3.98
+"South Africa","ZAF","SSA",2018,43,NA,73,8,3.8
+"South Africa","ZAF","SSA",2019,44,NA,70,8,3.442128
+"South Africa","ZAF","SSA",2020,44,NA,69,8,2.167147
+"South Africa","ZAF","SSA",2021,44,NA,70,8,2.354487
+"South Africa","ZAF","SSA",2022,43,NA,72,8,2.006997
+"South Africa","ZAF","SSA",2023,41,NA,83,8,2.084248
+"South Sudan","SSD","SSA",2012,NA,NA,NA,NA,NA
+"South Sudan","SSD","SSA",2013,NA,14,NA,3,1.6
+"South Sudan","SSD","SSA",2014,15,NA,NA,3,2.35
+"South Sudan","SSD","SSA",2015,15,NA,NA,3,1.45
+"South Sudan","SSD","SSA",2016,11,NA,NA,5,3.21
+"South Sudan","SSD","SSA",2017,12,NA,179,5,1.56
+"South Sudan","SSD","SSA",2018,13,NA,178,5,1.86
+"South Sudan","SSD","SSA",2019,12,NA,179,5,1.263942
+"South Sudan","SSD","SSA",2020,12,NA,179,5,1.108644
+"South Sudan","SSD","SSA",2021,11,NA,180,5,0.4090756
+"South Sudan","SSD","SSA",2022,13,NA,178,5,1.899278
+"South Sudan","SSD","SSA",2023,13,NA,177,5,1.328441
+"Spain","ESP","WE/EU",2012,NA,65,NA,7,2.9
+"Spain","ESP","WE/EU",2013,NA,59,NA,7,4.9
+"Spain","ESP","WE/EU",2014,60,NA,NA,7,3.75
+"Spain","ESP","WE/EU",2015,58,NA,NA,7,4.07
+"Spain","ESP","WE/EU",2016,58,NA,NA,7,4.09
+"Spain","ESP","WE/EU",2017,57,NA,42,8,3.78
+"Spain","ESP","WE/EU",2018,58,NA,41,8,4.33
+"Spain","ESP","WE/EU",2019,62,NA,30,8,3.166087
+"Spain","ESP","WE/EU",2020,62,NA,32,8,2.009488
+"Spain","ESP","WE/EU",2021,61,NA,34,8,2.280077
+"Spain","ESP","WE/EU",2022,60,NA,35,8,2.412303
+"Spain","ESP","WE/EU",2023,60,NA,36,8,2.36062
+"Sri Lanka","LKA","AP",2012,NA,40,NA,7,1.3
+"Sri Lanka","LKA","AP",2013,NA,37,NA,7,2.1
+"Sri Lanka","LKA","AP",2014,38,NA,NA,7,2.18
+"Sri Lanka","LKA","AP",2015,37,NA,NA,7,2.09
+"Sri Lanka","LKA","AP",2016,36,NA,NA,7,1.64
+"Sri Lanka","LKA","AP",2017,38,NA,91,7,1.82
+"Sri Lanka","LKA","AP",2018,38,NA,89,7,1.85
+"Sri Lanka","LKA","AP",2019,38,NA,93,7,2.113032
+"Sri Lanka","LKA","AP",2020,38,NA,94,8,1.169462
+"Sri Lanka","LKA","AP",2021,37,NA,102,7,0.9939778
+"Sri Lanka","LKA","AP",2022,36,NA,101,7,0.8000863
+"Sri Lanka","LKA","AP",2023,34,NA,115,8,0.6168234
+"Sudan","SDN","SSA",2012,NA,13,NA,6,2.9
+"Sudan","SDN","SSA",2013,NA,11,NA,6,3.5
+"Sudan","SDN","SSA",2014,11,NA,NA,6,3.55
+"Sudan","SDN","SSA",2015,12,NA,NA,6,3.64
+"Sudan","SDN","SSA",2016,14,NA,NA,7,2.99
+"Sudan","SDN","SSA",2017,16,NA,175,7,2.31
+"Sudan","SDN","SSA",2018,16,NA,172,7,2.51
+"Sudan","SDN","SSA",2019,16,NA,173,7,2.743431
+"Sudan","SDN","SSA",2020,16,NA,174,7,2.14281
+"Sudan","SDN","SSA",2021,20,NA,164,8,2.428313
+"Sudan","SDN","SSA",2022,22,NA,162,8,3.467837
+"Sudan","SDN","SSA",2023,20,NA,162,8,3.126031
+"Suriname","SUR","AME",2012,NA,37,NA,3,3.2
+"Suriname","SUR","AME",2013,NA,36,NA,3,3.2
+"Suriname","SUR","AME",2014,36,NA,NA,3,3.25
+"Suriname","SUR","AME",2015,36,NA,NA,3,3.21
+"Suriname","SUR","AME",2016,45,NA,NA,4,7.53
+"Suriname","SUR","AME",2017,41,NA,77,4,4.08
+"Suriname","SUR","AME",2018,43,NA,73,4,3.22
+"Suriname","SUR","AME",2019,44,NA,70,4,4.763029
+"Suriname","SUR","AME",2020,38,NA,94,4,1.686898
+"Suriname","SUR","AME",2021,39,NA,87,4,4.289223
+"Suriname","SUR","AME",2022,40,NA,85,4,5.380863
+"Suriname","SUR","AME",2023,40,NA,87,4,5.908999
+"Sweden","SWE","WE/EU",2012,NA,88,NA,7,1.9
+"Sweden","SWE","WE/EU",2013,NA,89,NA,7,2.3
+"Sweden","SWE","WE/EU",2014,87,NA,NA,7,3.41
+"Sweden","SWE","WE/EU",2015,89,NA,NA,7,1.71
+"Sweden","SWE","WE/EU",2016,88,NA,NA,7,1.33
+"Sweden","SWE","WE/EU",2017,84,NA,6,8,2.27
+"Sweden","SWE","WE/EU",2018,85,NA,3,8,2.02
+"Sweden","SWE","WE/EU",2019,85,NA,4,8,1.977693
+"Sweden","SWE","WE/EU",2020,85,NA,3,8,1.303953
+"Sweden","SWE","WE/EU",2021,85,NA,4,8,1.239412
+"Sweden","SWE","WE/EU",2022,83,NA,5,8,2.204067
+"Sweden","SWE","WE/EU",2023,82,NA,6,8,2.28425
+"Switzerland","CHE","WE/EU",2012,NA,86,NA,6,2.6
+"Switzerland","CHE","WE/EU",2013,NA,85,NA,6,2.5
+"Switzerland","CHE","WE/EU",2014,86,NA,NA,6,2.61
+"Switzerland","CHE","WE/EU",2015,86,NA,NA,6,2.55
+"Switzerland","CHE","WE/EU",2016,86,NA,NA,6,1.57
+"Switzerland","CHE","WE/EU",2017,85,NA,3,7,1.71
+"Switzerland","CHE","WE/EU",2018,85,NA,3,7,1.57
+"Switzerland","CHE","WE/EU",2019,85,NA,4,7,1.580087
+"Switzerland","CHE","WE/EU",2020,85,NA,3,7,1.096633
+"Switzerland","CHE","WE/EU",2021,84,NA,7,7,1.105019
+"Switzerland","CHE","WE/EU",2022,82,NA,7,7,1.846128
+"Switzerland","CHE","WE/EU",2023,82,NA,6,7,1.743361
+"Syria","SYR","MENA",2012,NA,26,NA,5,2.7
+"Syria","SYR","MENA",2013,NA,17,NA,4,3.8
+"Syria","SYR","MENA",2014,20,NA,NA,4,5.31
+"Syria","SYR","MENA",2015,18,NA,NA,4,5.66
+"Syria","SYR","MENA",2016,13,NA,NA,5,1.97
+"Syria","SYR","MENA",2017,14,NA,178,5,1.93
+"Syria","SYR","MENA",2018,13,NA,178,5,1.92
+"Syria","SYR","MENA",2019,13,NA,178,5,1.921515
+"Syria","SYR","MENA",2020,14,NA,178,5,1.576392
+"Syria","SYR","MENA",2021,13,NA,178,5,1.578473
+"Syria","SYR","MENA",2022,13,NA,178,5,1.56891
+"Syria","SYR","MENA",2023,13,NA,177,5,1.578473
+"Taiwan","TWN","AP",2012,NA,61,NA,7,3.9
+"Taiwan","TWN","AP",2013,NA,61,NA,7,4.3
+"Taiwan","TWN","AP",2014,61,NA,NA,7,4.17
+"Taiwan","TWN","AP",2015,62,NA,NA,7,3.78
+"Taiwan","TWN","AP",2016,61,NA,NA,8,3.79
+"Taiwan","TWN","AP",2017,63,NA,29,8,3.28
+"Taiwan","TWN","AP",2018,63,NA,31,8,3.06
+"Taiwan","TWN","AP",2019,65,NA,28,8,3.034662
+"Taiwan","TWN","AP",2020,65,NA,28,8,2.059654
+"Taiwan","TWN","AP",2021,68,NA,25,8,1.853412
+"Taiwan","TWN","AP",2022,68,NA,25,8,1.655762
+"Taiwan","TWN","AP",2023,67,NA,28,8,1.530575
+"Tajikistan","TJK","ECA",2012,NA,22,NA,5,3.8
+"Tajikistan","TJK","ECA",2013,NA,22,NA,5,3.8
+"Tajikistan","TJK","ECA",2014,23,NA,NA,5,5.32
+"Tajikistan","TJK","ECA",2015,26,NA,NA,5,7.36
+"Tajikistan","TJK","ECA",2016,25,NA,NA,6,5.26
+"Tajikistan","TJK","ECA",2017,21,NA,161,5,2.36
+"Tajikistan","TJK","ECA",2018,25,NA,152,6,5.73
+"Tajikistan","TJK","ECA",2019,25,NA,153,6,6.659976
+"Tajikistan","TJK","ECA",2020,25,NA,149,6,5.086641
+"Tajikistan","TJK","ECA",2021,25,NA,150,6,3.968247
+"Tajikistan","TJK","ECA",2022,24,NA,150,6,3.132439
+"Tajikistan","TJK","ECA",2023,20,NA,162,5,0.7774715
+"Tanzania","TZA","SSA",2012,NA,35,NA,8,2.1
+"Tanzania","TZA","SSA",2013,NA,33,NA,8,2.7
+"Tanzania","TZA","SSA",2014,31,NA,NA,8,3.2
+"Tanzania","TZA","SSA",2015,30,NA,NA,8,3.49
+"Tanzania","TZA","SSA",2016,32,NA,NA,9,1.84
+"Tanzania","TZA","SSA",2017,36,NA,103,9,1.55
+"Tanzania","TZA","SSA",2018,36,NA,99,9,1.83
+"Tanzania","TZA","SSA",2019,37,NA,96,9,1.918592
+"Tanzania","TZA","SSA",2020,38,NA,94,9,0.8037881
+"Tanzania","TZA","SSA",2021,39,NA,87,9,1.394554
+"Tanzania","TZA","SSA",2022,38,NA,94,9,0.994391
+"Tanzania","TZA","SSA",2023,40,NA,87,9,2.20367
+"Thailand","THA","AP",2012,NA,37,NA,8,1.6
+"Thailand","THA","AP",2013,NA,35,NA,8,1.2
+"Thailand","THA","AP",2014,38,NA,NA,8,1.6
+"Thailand","THA","AP",2015,38,NA,NA,8,2.12
+"Thailand","THA","AP",2016,35,NA,NA,9,2.44
+"Thailand","THA","AP",2017,37,NA,96,9,2.03
+"Thailand","THA","AP",2018,36,NA,99,9,2.08
+"Thailand","THA","AP",2019,36,NA,101,9,2.448041
+"Thailand","THA","AP",2020,36,NA,104,9,1.307877
+"Thailand","THA","AP",2021,35,NA,110,9,0.8400027
+"Thailand","THA","AP",2022,36,NA,101,9,1.091841
+"Thailand","THA","AP",2023,35,NA,108,9,0.8833423
+"Timor-Leste","TLS","AP",2012,NA,33,NA,3,5.6
+"Timor-Leste","TLS","AP",2013,NA,30,NA,3,3.2
+"Timor-Leste","TLS","AP",2014,28,NA,NA,3,5.18
+"Timor-Leste","TLS","AP",2015,28,NA,NA,3,5.17
+"Timor-Leste","TLS","AP",2016,35,NA,NA,3,5.97
+"Timor-Leste","TLS","AP",2017,38,NA,91,3,7.5
+"Timor-Leste","TLS","AP",2018,35,NA,105,3,4.81
+"Timor-Leste","TLS","AP",2019,38,NA,93,4,4.49538
+"Timor-Leste","TLS","AP",2020,40,NA,86,4,2.707735
+"Timor-Leste","TLS","AP",2021,41,NA,82,4,3.684245
+"Timor-Leste","TLS","AP",2022,42,NA,77,4,5.034718
+"Timor-Leste","TLS","AP",2023,43,NA,70,4,5.186713
+"Togo","TGO","SSA",2012,NA,30,NA,5,3.4
+"Togo","TGO","SSA",2013,NA,29,NA,5,3.7
+"Togo","TGO","SSA",2014,29,NA,NA,5,3.69
+"Togo","TGO","SSA",2015,32,NA,NA,5,3.04
+"Togo","TGO","SSA",2016,32,NA,NA,5,4.21
+"Togo","TGO","SSA",2017,32,NA,117,6,3.29
+"Togo","TGO","SSA",2018,30,NA,129,6,2.35
+"Togo","TGO","SSA",2019,29,NA,130,7,2.4049
+"Togo","TGO","SSA",2020,29,NA,134,7,1.750591
+"Togo","TGO","SSA",2021,30,NA,128,7,1.603653
+"Togo","TGO","SSA",2022,30,NA,130,7,1.69541
+"Togo","TGO","SSA",2023,31,NA,126,7,1.147705
+"Trinidad and Tobago","TTO","AME",2012,NA,39,NA,4,4.5
+"Trinidad and Tobago","TTO","AME",2013,NA,38,NA,4,5.1
+"Trinidad and Tobago","TTO","AME",2014,38,NA,NA,4,4.82
+"Trinidad and Tobago","TTO","AME",2015,39,NA,NA,4,4.64
+"Trinidad and Tobago","TTO","AME",2016,35,NA,NA,5,2.48
+"Trinidad and Tobago","TTO","AME",2017,41,NA,77,6,5.47
+"Trinidad and Tobago","TTO","AME",2018,41,NA,78,6,5.8
+"Trinidad and Tobago","TTO","AME",2019,40,NA,85,7,5.378127
+"Trinidad and Tobago","TTO","AME",2020,40,NA,86,7,3.733581
+"Trinidad and Tobago","TTO","AME",2021,41,NA,82,7,3.656795
+"Trinidad and Tobago","TTO","AME",2022,42,NA,77,7,3.860194
+"Trinidad and Tobago","TTO","AME",2023,42,NA,76,6,4.874883
+"Tunisia","TUN","MENA",2012,NA,41,NA,7,2.8
+"Tunisia","TUN","MENA",2013,NA,41,NA,7,1.9
+"Tunisia","TUN","MENA",2014,40,NA,NA,6,1.72
+"Tunisia","TUN","MENA",2015,38,NA,NA,6,2.17
+"Tunisia","TUN","MENA",2016,41,NA,NA,7,3.9
+"Tunisia","TUN","MENA",2017,42,NA,74,7,3.73
+"Tunisia","TUN","MENA",2018,43,NA,73,7,3.86
+"Tunisia","TUN","MENA",2019,43,NA,74,7,3.941079
+"Tunisia","TUN","MENA",2020,44,NA,69,7,2.827469
+"Tunisia","TUN","MENA",2021,44,NA,70,7,1.899039
+"Tunisia","TUN","MENA",2022,40,NA,85,7,1.123165
+"Tunisia","TUN","MENA",2023,40,NA,87,7,1.702574
+"Turkey","TUR","ECA",2012,NA,49,NA,9,2.1
+"Turkey","TUR","ECA",2013,NA,50,NA,9,2.4
+"Turkey","TUR","ECA",2014,45,NA,NA,8,2.69
+"Turkey","TUR","ECA",2015,42,NA,NA,8,2.02
+"Turkey","TUR","ECA",2016,41,NA,NA,9,1.8
+"Turkey","TUR","ECA",2017,40,NA,81,8,1.8
+"Turkey","TUR","ECA",2018,41,NA,78,9,3.03
+"Turkey","TUR","ECA",2019,39,NA,91,9,3.337019
+"Turkey","TUR","ECA",2020,40,NA,86,9,2.055156
+"Turkey","TUR","ECA",2021,38,NA,96,9,2.096217
+"Turkey","TUR","ECA",2022,36,NA,101,9,1.505927
+"Turkey","TUR","ECA",2023,34,NA,115,9,1.574261
+"Turkmenistan","TKM","ECA",2012,NA,17,NA,3,2.9
+"Turkmenistan","TKM","ECA",2013,NA,17,NA,3,2.9
+"Turkmenistan","TKM","ECA",2014,17,NA,NA,3,2.85
+"Turkmenistan","TKM","ECA",2015,18,NA,NA,4,2.38
+"Turkmenistan","TKM","ECA",2016,22,NA,NA,4,1.32
+"Turkmenistan","TKM","ECA",2017,19,NA,167,5,1.78
+"Turkmenistan","TKM","ECA",2018,20,NA,161,5,1.22
+"Turkmenistan","TKM","ECA",2019,19,NA,165,5,1.417115
+"Turkmenistan","TKM","ECA",2020,19,NA,165,5,0.9122712
+"Turkmenistan","TKM","ECA",2021,19,NA,169,5,1.068664
+"Turkmenistan","TKM","ECA",2022,19,NA,167,5,1.068664
+"Turkmenistan","TKM","ECA",2023,18,NA,170,5,1.447954
+"Uganda","UGA","SSA",2012,NA,29,NA,8,2.2
+"Uganda","UGA","SSA",2013,NA,26,NA,8,3.3
+"Uganda","UGA","SSA",2014,26,NA,NA,8,3.03
+"Uganda","UGA","SSA",2015,25,NA,NA,8,3.19
+"Uganda","UGA","SSA",2016,25,NA,NA,9,2.24
+"Uganda","UGA","SSA",2017,26,NA,151,9,2.11
+"Uganda","UGA","SSA",2018,26,NA,149,9,2.13
+"Uganda","UGA","SSA",2019,28,NA,137,9,2.035011
+"Uganda","UGA","SSA",2020,27,NA,142,9,1.153836
+"Uganda","UGA","SSA",2021,27,NA,144,9,1.221429
+"Uganda","UGA","SSA",2022,26,NA,142,8,1.489444
+"Uganda","UGA","SSA",2023,26,NA,141,8,1.296407
+"Ukraine","UKR","ECA",2012,NA,26,NA,8,1.8
+"Ukraine","UKR","ECA",2013,NA,25,NA,8,1.7
+"Ukraine","UKR","ECA",2014,26,NA,NA,8,1.64
+"Ukraine","UKR","ECA",2015,27,NA,NA,8,1.93
+"Ukraine","UKR","ECA",2016,29,NA,NA,9,1.97
+"Ukraine","UKR","ECA",2017,30,NA,130,9,2.27
+"Ukraine","UKR","ECA",2018,32,NA,120,9,2.27
+"Ukraine","UKR","ECA",2019,30,NA,126,9,2.380559
+"Ukraine","UKR","ECA",2020,33,NA,117,9,1.31305
+"Ukraine","UKR","ECA",2021,32,NA,122,9,1.294409
+"Ukraine","UKR","ECA",2022,33,NA,116,8,1.440567
+"Ukraine","UKR","ECA",2023,36,NA,104,8,1.933333
+"United Arab Emirates","ARE","MENA",2012,NA,68,NA,7,4.3
+"United Arab Emirates","ARE","MENA",2013,NA,69,NA,7,4.7
+"United Arab Emirates","ARE","MENA",2014,70,NA,NA,7,5.14
+"United Arab Emirates","ARE","MENA",2015,70,NA,NA,7,5.07
+"United Arab Emirates","ARE","MENA",2016,66,NA,NA,7,5.7
+"United Arab Emirates","ARE","MENA",2017,71,NA,21,7,6.26
+"United Arab Emirates","ARE","MENA",2018,70,NA,23,8,4.56
+"United Arab Emirates","ARE","MENA",2019,71,NA,21,8,5.126294
+"United Arab Emirates","ARE","MENA",2020,71,NA,21,8,3.226185
+"United Arab Emirates","ARE","MENA",2021,69,NA,24,8,2.904347
+"United Arab Emirates","ARE","MENA",2022,67,NA,27,7,3.102045
+"United Arab Emirates","ARE","MENA",2023,68,NA,26,7,2.567688
+"United Kingdom","GBR","WE/EU",2012,NA,74,NA,8,1.3
+"United Kingdom","GBR","WE/EU",2013,NA,76,NA,8,1.3
+"United Kingdom","GBR","WE/EU",2014,78,NA,NA,7,2.09
+"United Kingdom","GBR","WE/EU",2015,81,NA,NA,7,2.4
+"United Kingdom","GBR","WE/EU",2016,81,NA,NA,7,2.12
+"United Kingdom","GBR","WE/EU",2017,82,NA,8,8,1.7
+"United Kingdom","GBR","WE/EU",2018,80,NA,11,8,2.03
+"United Kingdom","GBR","WE/EU",2019,77,NA,12,8,3.337237
+"United Kingdom","GBR","WE/EU",2020,77,NA,11,8,2.201047
+"United Kingdom","GBR","WE/EU",2021,78,NA,11,8,1.428169
+"United Kingdom","GBR","WE/EU",2022,73,NA,18,8,1.847196
+"United Kingdom","GBR","WE/EU",2023,71,NA,20,8,1.680516
+"United States of America","USA","AME",2012,NA,73,NA,9,4.1
+"United States of America","USA","AME",2013,NA,73,NA,9,4
+"United States of America","USA","AME",2014,74,NA,NA,8,3.74
+"United States of America","USA","AME",2015,76,NA,NA,8,3.47
+"United States of America","USA","AME",2016,74,NA,NA,9,3.15
+"United States of America","USA","AME",2017,75,NA,16,9,3.24
+"United States of America","USA","AME",2018,71,NA,22,9,3.25
+"United States of America","USA","AME",2019,69,NA,23,9,4.115168
+"United States of America","USA","AME",2020,67,NA,25,9,2.486317
+"United States of America","USA","AME",2021,67,NA,27,9,2.209513
+"United States of America","USA","AME",2022,69,NA,24,9,2.110072
+"United States of America","USA","AME",2023,69,NA,24,9,2.142744
+"Uruguay","URY","AME",2012,NA,72,NA,6,1.5
+"Uruguay","URY","AME",2013,NA,73,NA,6,1.4
+"Uruguay","URY","AME",2014,73,NA,NA,6,1.41
+"Uruguay","URY","AME",2015,74,NA,NA,6,1.68
+"Uruguay","URY","AME",2016,71,NA,NA,6,2.68
+"Uruguay","URY","AME",2017,70,NA,23,7,2.67
+"Uruguay","URY","AME",2018,70,NA,23,7,2.73
+"Uruguay","URY","AME",2019,71,NA,21,7,2.472212
+"Uruguay","URY","AME",2020,71,NA,21,7,1.723601
+"Uruguay","URY","AME",2021,73,NA,18,7,0.6759979
+"Uruguay","URY","AME",2022,74,NA,14,7,0.6598858
+"Uruguay","URY","AME",2023,73,NA,16,7,0.6729261
+"Uzbekistan","UZB","ECA",2012,NA,17,NA,6,2
+"Uzbekistan","UZB","ECA",2013,NA,17,NA,6,2
+"Uzbekistan","UZB","ECA",2014,18,NA,NA,6,2.54
+"Uzbekistan","UZB","ECA",2015,19,NA,NA,6,2.71
+"Uzbekistan","UZB","ECA",2016,21,NA,NA,7,2.35
+"Uzbekistan","UZB","ECA",2017,22,NA,157,7,2.11
+"Uzbekistan","UZB","ECA",2018,23,NA,158,7,1.93
+"Uzbekistan","UZB","ECA",2019,25,NA,153,7,2.01073
+"Uzbekistan","UZB","ECA",2020,26,NA,146,7,1.520405
+"Uzbekistan","UZB","ECA",2021,28,NA,140,7,1.509101
+"Uzbekistan","UZB","ECA",2022,31,NA,126,8,1.71464
+"Uzbekistan","UZB","ECA",2023,33,NA,121,9,2.122716
+"Vanuatu","VUT","AP",2012,NA,NA,NA,NA,NA
+"Vanuatu","VUT","AP",2013,NA,NA,NA,NA,NA
+"Vanuatu","VUT","AP",2014,NA,NA,NA,NA,NA
+"Vanuatu","VUT","AP",2015,NA,NA,NA,NA,NA
+"Vanuatu","VUT","AP",2016,NA,NA,NA,NA,NA
+"Vanuatu","VUT","AP",2017,43,NA,71,3,3.93
+"Vanuatu","VUT","AP",2018,46,NA,64,3,5.97
+"Vanuatu","VUT","AP",2019,46,NA,64,3,6.376219
+"Vanuatu","VUT","AP",2020,43,NA,75,3,3.587864
+"Vanuatu","VUT","AP",2021,45,NA,66,3,4.582811
+"Vanuatu","VUT","AP",2022,48,NA,60,3,2.723077
+"Vanuatu","VUT","AP",2023,48,NA,61,3,3.143494
+"Venezuela","VEN","AME",2012,NA,19,NA,7,2.1
+"Venezuela","VEN","AME",2013,NA,20,NA,7,2.3
+"Venezuela","VEN","AME",2014,19,NA,NA,7,1.69
+"Venezuela","VEN","AME",2015,17,NA,NA,7,2.64
+"Venezuela","VEN","AME",2016,17,NA,NA,7,1.41
+"Venezuela","VEN","AME",2017,18,NA,169,8,1.6
+"Venezuela","VEN","AME",2018,18,NA,168,8,2.13
+"Venezuela","VEN","AME",2019,16,NA,173,8,2.048858
+"Venezuela","VEN","AME",2020,15,NA,176,8,0.9144296
+"Venezuela","VEN","AME",2021,14,NA,177,8,0.9911299
+"Venezuela","VEN","AME",2022,14,NA,177,8,1.296945
+"Venezuela","VEN","AME",2023,13,NA,177,8,1.226027
+"Vietnam","VNM","AP",2012,NA,31,NA,8,2.5
+"Vietnam","VNM","AP",2013,NA,31,NA,8,2.6
+"Vietnam","VNM","AP",2014,31,NA,NA,8,2.55
+"Vietnam","VNM","AP",2015,31,NA,NA,8,2.56
+"Vietnam","VNM","AP",2016,33,NA,NA,8,2.46
+"Vietnam","VNM","AP",2017,35,NA,107,8,2.78
+"Vietnam","VNM","AP",2018,33,NA,117,8,2.84
+"Vietnam","VNM","AP",2019,37,NA,96,8,2.841134
+"Vietnam","VNM","AP",2020,36,NA,104,8,1.808218
+"Vietnam","VNM","AP",2021,39,NA,87,8,0.8228995
+"Vietnam","VNM","AP",2022,42,NA,77,8,1.497007
+"Vietnam","VNM","AP",2023,41,NA,83,8,1.399817
+"Yemen","YEM","MENA",2012,NA,23,NA,6,2.2
+"Yemen","YEM","MENA",2013,NA,18,NA,6,2.6
+"Yemen","YEM","MENA",2014,19,NA,NA,6,2.37
+"Yemen","YEM","MENA",2015,18,NA,NA,6,2.66
+"Yemen","YEM","MENA",2016,14,NA,NA,7,3.05
+"Yemen","YEM","MENA",2017,16,NA,175,7,1.85
+"Yemen","YEM","MENA",2018,14,NA,176,7,1.45
+"Yemen","YEM","MENA",2019,15,NA,177,7,1.885994
+"Yemen","YEM","MENA",2020,15,NA,176,7,1.333599
+"Yemen","YEM","MENA",2021,16,NA,174,7,2.292554
+"Yemen","YEM","MENA",2022,16,NA,176,7,1.975074
+"Yemen","YEM","MENA",2023,16,NA,176,7,1.753443
+"Zambia","ZMB","SSA",2012,NA,37,NA,8,3.1
+"Zambia","ZMB","SSA",2013,NA,38,NA,8,2.1
+"Zambia","ZMB","SSA",2014,38,NA,NA,8,2.27
+"Zambia","ZMB","SSA",2015,38,NA,NA,8,2.55
+"Zambia","ZMB","SSA",2016,38,NA,NA,9,2.91
+"Zambia","ZMB","SSA",2017,37,NA,96,9,2.46
+"Zambia","ZMB","SSA",2018,35,NA,105,9,1.93
+"Zambia","ZMB","SSA",2019,34,NA,113,9,1.973667
+"Zambia","ZMB","SSA",2020,33,NA,117,9,0.9566052
+"Zambia","ZMB","SSA",2021,33,NA,117,9,1.634307
+"Zambia","ZMB","SSA",2022,33,NA,116,9,1.495884
+"Zambia","ZMB","SSA",2023,37,NA,98,8,2.055679
+"Zimbabwe","ZWE","SSA",2012,NA,20,NA,8,4.3
+"Zimbabwe","ZWE","SSA",2013,NA,21,NA,8,4.3
+"Zimbabwe","ZWE","SSA",2014,21,NA,NA,8,4.18
+"Zimbabwe","ZWE","SSA",2015,21,NA,NA,8,4.54
+"Zimbabwe","ZWE","SSA",2016,22,NA,NA,9,2.59
+"Zimbabwe","ZWE","SSA",2017,22,NA,157,9,2.22
+"Zimbabwe","ZWE","SSA",2018,22,NA,160,9,2.29
+"Zimbabwe","ZWE","SSA",2019,24,NA,158,9,2.307745
+"Zimbabwe","ZWE","SSA",2020,24,NA,157,9,1.352586
+"Zimbabwe","ZWE","SSA",2021,23,NA,157,8,1.51809
+"Zimbabwe","ZWE","SSA",2022,23,NA,157,8,1.53208
+"Zimbabwe","ZWE","SSA",2023,24,NA,149,9,1.301722
